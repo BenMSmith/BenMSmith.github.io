@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**We’ve Got Cookie Sign**: _Robot Wars_ (S13E2)"
+title: **We’ve Got Cookie Sign**&#58; _Robot Wars_ (S13E2)
 ---
 
 Another new month, another new MST3k, and another recipe to go with it!
