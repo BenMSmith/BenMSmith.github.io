@@ -4,7 +4,7 @@ title: Ben Smith
 permalink: /about/
 ---
 
-![Covatar]({{site.baseurl}}/assets/images/Ben Covatar.png)| width=250
+<img src="assets/images/Ben Covatar.png" width="250">
 
 ### More Information
 
