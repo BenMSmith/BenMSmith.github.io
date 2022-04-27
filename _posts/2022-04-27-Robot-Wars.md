@@ -7,7 +7,7 @@ Another new month, another new MST3k, and another recipe to go with it!
 
 The second episode of this season is Robot Wars, a Full Moon Entertainment special starring Barbara Crampton. It has everything you’d want: scorpion-esque robot transportation, the same set dressed as multiple different locations, and Crystal Vista, a village preserved as it was at the time of the 1993 “Great Toxic Gas Scare”. It’s VERY cheesy, and VERY 90s, and that’s what got me to this month’s cookie.
 
-[jonah and bots image here]
+![](/assets/images/savory_dunkaroos/crystal_vista.png)
 
 What’s the most 90s cookie you can think of?
 
@@ -15,11 +15,11 @@ No, _not_ SnackWells.
 
 I refuse to reverse-engineer SnackWells on this blog.
 
-[no snackwells image]
+![](/assets/images/savory_dunkaroos/no_snackwells.jpg)
 
 **Time’s up**! The answer is Dunkaroos, the lunchbox snack where you essentially got to dip cookies in cake frosting:
 
-[dunkaroos]
+![](/assets/images/savory_dunkaroos/dunks.jpeg)
 
 Midway through watching Robot Wars for the second time, the phrase “Savory Dunkaroos” entered my brain and then I needed to make it a reality. What would a savory dunkaroo need to have?
 
@@ -28,11 +28,11 @@ Midway through watching Robot Wars for the second time, the phrase “Savory Dun
 
 Given how _truly_ cheesy this movie is, it made sense to make the cookies cheesy as well, so I dug up a smoked gouda cookie recipe from Dorie Greenspan, and to balance that out, I made a dip from my favorite chimichurri-esque sauce from Joshua McFadden’s Six Seasons by adding some avocado and greek yogurt.
 
-[beautiful shot of cookies and dip]
+![](/assets/images/savory_dunkaroos/savorydunkaroos.jpeg)
 
 These turned out great – the cheesiness of the cookies balances perfectly with the super herby-y dip, and the orange and green color scheme is very 90s Nickelodeon’s whole Memphis-y vibe.
 
-[spices montage]
+![](/assets/images/savory_dunkaroos/01.jpeg) ![](/assets/images/savory_dunkaroos/02.jpeg) ![](/assets/images/savory_dunkaroos/03.jpeg)
 
 Making the dip starts with toasting and grinding some coriander, cumin, and cardamon seeds. Toasting brings out the flavors a little more, so don’t skip this step. I use a cheap $10 coffee grinder from Amazon for grinding spices (and ONLY grinding spices), but you could also use a mortar and pestle here.
 
