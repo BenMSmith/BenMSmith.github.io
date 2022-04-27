@@ -11,9 +11,9 @@ Flour often makes two of these into an oreo/moon pie sort of a deal with some cr
 
 This makes 28-32 cookies
 
-##Ingredients
+## Ingredients
 
-###for the cookies
+### for the cookies
 
 - 2 sticks unsalted butter, at room temperature
 - 3/4 cup + 2 Tbsp (175 grams) granulated sugar
@@ -25,13 +25,13 @@ This makes 28-32 cookies
 - 2 tsp baking powder
 - 1/2 tsp kosher salt
 
-###for the glaze:
+### for the glaze:
 
 - 1 cup (140 grams) powdered sugar
 - 3 tablespoons lime juice
 - 1 1/2 tsp finely grated lime zest (1-2 limes)
 
-##Steps
+## Steps
 
 1. Position a rack in the center of your oven and preheat the oven to 350F
 2. Using a stand mixer fitted with the paddle attachment (or a handheld mixer), cream together the butter and granulated sugar on medium speed for about 5 minutes (10 minutes with a handheld mixer). Yes, that’s a long time, you want this to get super light and fluffy. Stop the mixer a few times and use a rubber spatula to scrape the sides and bottom of the bowl and the paddle to release any clinging butter and sugar.

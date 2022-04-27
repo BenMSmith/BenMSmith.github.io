@@ -9,7 +9,7 @@ This is a family recipe that I was given under the strict promise to not give it
 
 DO NOT DOUBLE THIS BATCH, this makes enough teeny-tiny licorice-flavored cookies to fill a 9×13 gladware container.
 
-##Ingredients
+## Ingredients
 
 - 1 cup butter
 - 1 cup light corn syrup
@@ -23,7 +23,7 @@ DO NOT DOUBLE THIS BATCH, this makes enough teeny-tiny licorice-flavored cookies
 - 1 tsp ginger
 - 1/2 tsp baking soda
 
-##Instructions
+## Instructions
 
 1. With either a stand mixer or a hand mixer, cream butter and sugar together until fluffy.
 2. Add corn syrup and sour cream and combine.

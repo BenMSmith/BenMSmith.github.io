@@ -9,7 +9,7 @@ These are a riff on a [Cherry Cheesecake cookie](https://www.confessionsofacookb
 
 This makes about 4 dozen cookies – I’ve typically made a batch and a half for Hunt.
 
-##Ingredients
+## Ingredients
 
 - 3 1/2 cups all purpose flour
 - 2 teaspoons baking powder
@@ -22,7 +22,7 @@ This makes about 4 dozen cookies – I’ve typically made a batch and a half fo
 - 1 cup of Oreo crumbs  
     (I typically extract all the creme from half a package of oreos, then pulverize the wafers. You could also probably get those Nabisco chocolate cookies that are basically just the outsides of an Oreo, I won’t tell anyone)
 
-##Steps
+## Steps
 
 1. In a medium sized bowl, combine flour, baking powder, and salt. Set aside.
 2. In the bowl of a mixer (or with an electric hand mixer), beat cream cheese, butter and sugar on medium-high for 2 minutes. Add eggs and vanilla and mix until just combined. Reduce mixer speed to low and slowly add flour mixture. Divide dough in half, cover with plastic wrap and refrigerate until firm, at least 2 hours.
