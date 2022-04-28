@@ -28,11 +28,11 @@ Midway through watching Robot Wars for the second time, the phrase “Savory Dun
 
 Given how _truly_ cheesy this movie is, it made sense to make the cookies cheesy as well, so I dug up a smoked gouda cookie recipe from Dorie Greenspan, and to balance that out, I made a dip from my favorite chimichurri-esque sauce from Joshua McFadden’s Six Seasons by adding some avocado and greek yogurt.
 
-![](/assets/images/savory_dunkaroos/savorydunkaroos.jpeg)
+![](/assets/images/savory_dunkaroos/savorydunkaroos.jpeg){:width=500}
 
 These turned out great – the cheesiness of the cookies balances perfectly with the super herby-y dip, and the orange and green color scheme is very 90s Nickelodeon’s whole Memphis-y vibe.
 
-![](/assets/images/savory_dunkaroos/01.jpeg) ![](/assets/images/savory_dunkaroos/02.jpeg) ![](/assets/images/savory_dunkaroos/03.jpeg)
+![](/assets/images/savory_dunkaroos/01.jpeg){:width=200} ![](/assets/images/savory_dunkaroos/02.jpeg){:width=200} ![](/assets/images/savory_dunkaroos/03.jpeg){:width=200}
 
 Making the dip starts with toasting and grinding some coriander, cumin, and cardamon seeds. Toasting brings out the flavors a little more, so don’t skip this step. I use a cheap $10 coffee grinder from Amazon for grinding spices (and ONLY grinding spices), but you could also use a mortar and pestle here.
 
