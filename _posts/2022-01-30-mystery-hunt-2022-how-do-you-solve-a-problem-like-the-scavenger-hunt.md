@@ -2,7 +2,7 @@
 title: 'Mystery Hunt 2022: How Do You Solve a Problem Like the Scavenger Hunt?'
 layout: post
 ---
-<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png">
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
 This is part of a series on the 2022 Mystery Hunt. Spoilers ahead.
 
 One of the things we tried to think about “fixing” with our Hunt was what to do about the scavenger hunt.

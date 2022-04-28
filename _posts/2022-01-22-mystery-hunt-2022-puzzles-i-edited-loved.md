@@ -3,7 +3,7 @@ title: 'Mystery Hunt 2022: Puzzles I Edited/Loved'
 layout: post
 ---
 
-<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png">
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
 This is part of a series of posts on my contributions to the 2022 MIT Mystery Hunt – as such, there may be spoilers for some puzzles, so proceed at your own risk.
 
 Find the puzzles I wrote [here](https://www.benmsmith.com/blog/mystery-hunt-2022-stuff-i-wrote/), and details on how I made the Alexei Lewis costume [here](https://www.benmsmith.com/blog/is-mr-music-okay/)

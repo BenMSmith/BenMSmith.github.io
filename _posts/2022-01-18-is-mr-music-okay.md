@@ -2,10 +2,10 @@
 title: 'Mystery Hunt 2022: Is  ̶M̶r̶.̶ ̶M̶u̶s̶i̶c̶ Alexei Lewis Okay?'
 layout: post
 ---
-<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png">
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
 From the second we needed a Minister of Music for this year’s Mystery Hunt theme, I wanted to play them, largely *because I had most of the outfit already*. I had one specific visual reference in mind:
 
-<p align="center"><img src="/wp-content/uploads/2020/11/mrmusic.gif">
+<p align="center"><img src="/wp-content/uploads/2020/11/mrmusic.gif"></p>
 
 There’s also bits of [Mr. B. Natural](https://www.youtube.com/watch?v=cAKentKiGOY) and [the Dean’s peanut bar rap](https://www.youtube.com/watch?v=WZ2TC8duaoE) from Community in how the character finally shook out, but I had built [Mr. Music](https://www.youtube.com/watch?v=ddNNN80A_7Y)‘s outfit a few years ago for Quarantine Halloween and wanted to use it publicly for *something*.
 
@@ -53,7 +53,7 @@ after not finding ANYTHING that looked like the Mr. Music pants from the *Sack L
 
 ## **Alexei/Mr. Music on a Budget**
 
-<p align="center"><img src="wp-content/uploads/2020/11/ezgif.com-gif-maker.gif">
+<p align="center"><img src="wp-content/uploads/2020/11/ezgif.com-gif-maker.gif"></p>
 
 If we had needed it, I was prepared to build another one of these jackets for our team, and this is what the “budget” version would have been:
 

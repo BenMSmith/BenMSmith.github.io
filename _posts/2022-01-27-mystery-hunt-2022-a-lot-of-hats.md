@@ -3,7 +3,7 @@ title: 'Mystery Hunt 2022: A Lot of Hats'
 layout: post
 ---
 
-![](/wp-content/uploads/2022/01/bookspace2-1024x576.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
 while pulling together material for [a stream I did on Twitch](https://youtu.be/lVOoZrx1kTo), adding to the chorus of voices from my team that talked about our various Hunt experiences, I put together just how many things I had *done* as part of Palindrome this year. Some of these I’ve covered already (so I’ll just link to the appropriate post), but here are the many that I wore over the course of the year, *including a few I forgot to mention during that stream*.
 
 ## Theme Committee Member
