@@ -4,7 +4,7 @@ title: Mystery Hunt 2022
 permalink: /mystery-hunt-2022/
 ---
 
-I was part of the team that wrote the [2022 MIT Mystery Hunt] (https://puzzles.mit.edu/2022/).  As part of wrapping up that year-long project, I wrote a bunch of blog posts about my experience with that.
+I was part of the team that wrote the [2022 MIT Mystery Hunt](https://puzzles.mit.edu/2022/).  As part of wrapping up that year-long project, I wrote a bunch of blog posts about my experience with that.
 
 - [Is Mr. Music Okay](/2022/01/18/is-mr-music-okay//) - Building Alexei Lewis' costume
 - [Stuff I Wrote](/2022/01/18/mystery-hunt-2022-stuff-i-wrote/) - Puzzles I wrote
