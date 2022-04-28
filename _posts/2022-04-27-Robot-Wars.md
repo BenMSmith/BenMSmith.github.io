@@ -65,8 +65,16 @@ Et voila! A fancy savory version of the 90s classic, perfect for noshing on whil
 
 - 
 
+### Steps
+1. 
+
+----
+
 ## Green Dip
 
 ### Ingredients
 
 - 
+
+### Steps
+1. 
