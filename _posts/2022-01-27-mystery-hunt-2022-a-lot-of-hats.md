@@ -64,7 +64,7 @@ We had a fantastic crew of ministers both in the video and over the weekend, [as
 
 I also made one of the crucial pieces of the Plot Device:
 
-<p align="center"><img src="/wp-content/uploads/2022/01/FJwbKyPXsAMofPB-3-768x1024.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/FJwbKyOXMAg1TS8-1024x768.jpeg" width=400></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/FJwbKyPXsAMofPB-3-768x1024.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/FJwbKyOXMAg1TS8.jpeg" width=400></p>
 One member of Palindrome donated an old college dictionary that served as the base of this, and the feet/handle are wooden cubes from Michael’s that I colored black with a Sharpie and sealed. Lettering was some foam lettering, also from Michael’s, colored gold with another Sharpie.
 
 <p align="center"><img src="/wp-content/uploads/2022/01/FJwbkCeXIAAuJBD-1-768x1024.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/IMG_4753-3-1024x768.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/IMG_4755-1-768x1024.jpeg" width=400></p>
@@ -82,7 +82,7 @@ We mailed somewhere in the neighborhood of 1000 packages before Hunt, and all bu
 
 ## Puzzle Post-Production
 
-<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.43.49-PM-1024x857.png" width=300>
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.43.49-PM-1024x857.png" width=600></p>
 I turned 70 puzzles and solutions from their various Google Sheets form into final HTML.   
 S E V E N T Y. Most of these were puzzles I either wrote or edited, but beyond that, that is a staggering amount. It’s almost certain you touched a puzzle in 2022’s Hunt that I had a hand in as a result.
 
@@ -90,7 +90,7 @@ In hindsight, I would have advocated more strongly for us to start post-prod as 
 
 ## Endgame Assistance
 
-<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.52.50-PM-1024x576.png">
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.52.50-PM-1024x576.png"></p>
 I woke up Sunday morning at 8, saw that we had teams nearing the endgame, and got my ass over to campus to hang out in Hayden Library and be ready to welcome whatever team that was. Jen graciously walked Julia and I through the beats of the endgame scene approximately 7 billion times (my brain was **not** committing things to short-term memory) before I just typed them in my phone. Improv! Yes and! I did the thing.
 
 Fun fact: the hat I was literally wearing here is the logo of the [Beloit Sky Carp](https://www.milb.com/beloit/about/sky-carp-brand-story), the ONLY team [that changed mascots](https://onmilwaukee.com/articles/beloit-snappers-rebrand-sky-carp) in the process of post-prodding [Minor Details](https://www.bookspace.world/puzzle/minor-details/), necessitating a slight content change. I love the logo SO much, hence I got it on a hat.
