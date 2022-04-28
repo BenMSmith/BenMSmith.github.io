@@ -18,9 +18,9 @@ For Mystery Hunt, to keep things distinct I grew out a super-scruffy beard (sinc
 
 <p align="center"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="295" loading="lazy" src="https://www.youtube.com/embed/BoY1_zKDqgM?feature=oembed" title="Alexei Lewis" width="525"></iframe></p>
 
-<p align="center"><img src="/wp-content/uploads/2020/11/ezgif.com-gif-maker_1.gif"></p>
-
 ## Anatomy of  ̶a̶ ̶M̶r̶.̶ ̶M̶u̶s̶i̶c̶ an Alexei Lewis costume
+
+<p align="center"><img src="/wp-content/uploads/2020/11/ezgif.com-gif-maker_1.gif"></p>
 
 ### **The Jacket**
 
