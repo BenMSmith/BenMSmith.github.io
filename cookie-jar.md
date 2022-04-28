@@ -8,12 +8,12 @@ I do a lot of baking as a hobby, and these are recipes I've posted publicly, eit
 
 ## Mystery Hunt Cookies
 
-- Peppernuts
-- Oreo Cheesecake Cookies
-- Cornmeal Lime Cookies
+- [Peppernuts](/2021/01/08/peppernuts/)
+- [Oreo Cheesecake Cookies](/2021/01/08/oreo-cheesecake-cookies/)
+- [Cornmeal Lime Cookies](/2021/01/08/cornmeal-lime-cookies/)
 
 ## MST3k Cookies
 This was a project to make a cookie/other dessert for each episode of MST3k Season 13
 
-- Santo in the Treasure of Dracula: Chocolate-Chili Luchador Shortbread
-- Robot Wars: Savory Dunkaroos
+- *Santo in the Treasure of Dracula* (S13E1): [Chocolate-Chili Luchador Shortbread](/2022/03/31/weve-got-cookie-sign-santo-in-the-treasure-of-dracula-s13e1/)
+- *Robot Wars* (S13E2): [Savory Dunkaroos](/2022/04/27/Robot-Wars/)
