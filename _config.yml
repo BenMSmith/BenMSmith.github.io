@@ -36,7 +36,7 @@ author: BenMSmith
 logo: /assets/images/Ben Covatar.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-227476272-1
 
 permalink: /:year/:month/:day/:title/
 
