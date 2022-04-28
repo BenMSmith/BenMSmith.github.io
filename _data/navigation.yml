@@ -2,5 +2,9 @@
   link: /
 - name: About
   link: /about/
-- name: Portfolio
-  link: /portfolio/
+- name: Cookie Jar
+  link: /cookie-jar/
+- name: Mystery Hunt
+  link: /mystery-hunt-2022/
+- name: The Eurowhat? Podcast
+  link: https://www.eurowhat.com
