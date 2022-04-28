@@ -38,7 +38,7 @@ Pulling that together was a little more seat-of-the-pants than I maybe would hav
 
 Jenny Gutbezahl and Eric Berlin did the initial pass of the scripts for Tock throughout the plotline of our Hunt, and various members of Palindrome wrote the end videos for each neighborhood of Bookspace, to provide a variety of styles, themes, and voices.
 
-![](/wp-content/uploads/2022/01/IMG_4267-1024x768.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/IMG_4267-1024x768.png"></p>
 As someone who LOVED *The Phantom Tollbooth* as a young reader (seeing a diorama of one of its scenes at Planet Word (above) brought me to tears both because of fond memories AND because we were building it into our own world), I added some color to Tock’s character profile to make sure our Tock matched Book Tock before we recorded video with the puppet.
 
 I also made a few writers’ room suggestions on the neighborhood scripts, adding a “like and subscribe!” tone to the Howtoona script to make it more Youtube-y, and suggesting some kind of “it’s only Narnia Beeswax if it comes from the province of Narnia” joke be added to fantasy that was wonderfully finessed into the final “sparkling pollen” bit of the script.
@@ -49,7 +49,7 @@ The majority of my script-writing this Hunt, though, was with Renee Ngan as we d
 
 Because we knew we wanted to have this be a live interaction, we knew costuming needed to be easily identifiable so that no matter who was playing the role, if you saw overalls, you knew that was Billie Barker, etc. We also worked out having only two ministers of the total six in the live version of an interaction to allow whatever minister team we ultimately had Hunt weekend to be able to handle multiple teams at once during our busy period. Once we had written all of the variant scripts for a combo of a “exposition” minister and a “wildcard” minister, we combined the best bits of all of those to make the all-six-ministers final video version.
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.35.45-PM-1024x572.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.35.45-PM-1024x572.png"></p>
 The intro video went through a *lot* of revisions, since it needed to deliver a LOT of plot immediately after teams solved The Investigation’s meta. For a while, we were trying to frame this as a conversation teams were listening in on, and Eric rightly put his foot down with us and told us we absolutely needed to include the solver as an active character in the script. That was absolutely correct, and it completely fixed a lot of weaknesses in v1 and v2.
 
 Since we needed to record all of our video parts separately, but have it look like a seamless video call with all of us, I organized two rehearsals with our cast where we read through things, figured out the beats and timings, and recorded a “digital storyboard” that could be used by our video editor to piece everything together from our individual footage. Everyone went off and filmed their portions from that storyboard, and somehow it all came together.
@@ -64,33 +64,25 @@ We had a fantastic crew of ministers both in the video and over the weekend, [as
 
 I also made one of the crucial pieces of the Plot Device:
 
-![](/wp-content/uploads/2022/01/FJwbKyPXsAMofPB-3-768x1024.jpeg)
-![](/wp-content/uploads/2022/01/FJwbKyOXMAg1TS8-1024x768.jpeg)
+<p align="center"><img src="/wp-content/uploads/2022/01/FJwbKyPXsAMofPB-3-768x1024.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/FJwbKyOXMAg1TS8-1024x768.jpeg" width=400></p>
 One member of Palindrome donated an old college dictionary that served as the base of this, and the feet/handle are wooden cubes from Michael’s that I colored black with a Sharpie and sealed. Lettering was some foam lettering, also from Michael’s, colored gold with another Sharpie.
 
-![](/wp-content/uploads/2022/01/FJwbkCeXIAAuJBD-1-768x1024.jpeg)
-![](/wp-content/uploads/2022/01/IMG_4753-3-1024x768.jpeg)
-![](/wp-content/uploads/2022/01/IMG_4755-1-768x1024.jpeg)
+<p align="center"><img src="/wp-content/uploads/2022/01/FJwbkCeXIAAuJBD-1-768x1024.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/IMG_4753-3-1024x768.jpeg" width=400>   <img src="/wp-content/uploads/2022/01/IMG_4755-1-768x1024.jpeg" width=400></p>
 The toast is a few pieces of foam board stacked and covered with lots of felt.
 
 ## Swag Captain
 
 Sometime in August/September, Eric asked me if I was interested in heading up the logistical side of getting physical puzzles to teams. I wanted a buddy since it felt like a job for more than one person, and suggested Matt Cleinman, who had *also* been chatting about the details of getting those to teams in our Discord chat, and we made a fantastic team (that is still in the process of finishing everyone’s pin orders).
 
-![](/wp-content/uploads/2022/01/IMG_5047-768x1024.jpeg)
-![](/wp-content/uploads/2022/01/IMG_4384-1024x768.jpg)
-![](/wp-content/uploads/2022/01/IMG_4382-768x1024.jpeg)
-![](/wp-content/uploads/2022/01/IMG_5098-2-768x1024.jpg)
-![](/wp-content/uploads/2022/01/IMG_5103-768x1024.jpg)
-![](/wp-content/uploads/2022/01/IMG_5117-768x1024.jpg)![](/wp-content/uploads/2022/01/IMG_5139-768x1024.jpg)
-![](/wp-content/uploads/2022/01/IMG_5143-768x1024.jpg)
+<p align="center"><img src="/wp-content/uploads/2022/01/IMG_5047-768x1024.jpeg" width=300>   <img src="/wp-content/uploads/2022/01/IMG_4384-1024x768.jpg" width=300>   <img src="/wp-content/uploads/2022/01/IMG_4382-768x1024.jpeg" width=300>   <img src="/wp-content/uploads/2022/01/IMG_5098-2-768x1024.jpg" width=300></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/IMG_5103-768x1024.jpg" width=300>   <img src="/wp-content/uploads/2022/01/IMG_5117-768x1024.jpg" width=300>   <img src="/wp-content/uploads/2022/01/IMG_5139-768x1024.jpg" width=300>   <img src="/wp-content/uploads/2022/01/IMG_5143-768x1024.jpg" width=300></p>
 Getting to be hands-on with the production of Diced Turkey Hash and What’s In The Box was very fun. What’s in the Box was a full day of work assembling boxes, shredding each set of papers individually, and very carefully making sure each set of shreds fully made it into each box. I had to deal with customs issues on the dice, but those made it here just in time for an in-person test and final packaging with plenty of time to get those to teams.
 
 We mailed somewhere in the neighborhood of 1000 packages before Hunt, and all but 15 didn’t make it in time. I’ll take that success rate.
 
 ## Puzzle Post-Production
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.43.49-PM-1024x857.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.43.49-PM-1024x857.png" width=300>
 I turned 70 puzzles and solutions from their various Google Sheets form into final HTML.   
 S E V E N T Y. Most of these were puzzles I either wrote or edited, but beyond that, that is a staggering amount. It’s almost certain you touched a puzzle in 2022’s Hunt that I had a hand in as a result.
 
@@ -98,12 +90,12 @@ In hindsight, I would have advocated more strongly for us to start post-prod as 
 
 ## Endgame Assistance
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.52.50-PM-1024x576.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.52.50-PM-1024x576.png">
 I woke up Sunday morning at 8, saw that we had teams nearing the endgame, and got my ass over to campus to hang out in Hayden Library and be ready to welcome whatever team that was. Jen graciously walked Julia and I through the beats of the endgame scene approximately 7 billion times (my brain was **not** committing things to short-term memory) before I just typed them in my phone. Improv! Yes and! I did the thing.
 
 Fun fact: the hat I was literally wearing here is the logo of the [Beloit Sky Carp](https://www.milb.com/beloit/about/sky-carp-brand-story), the ONLY team [that changed mascots](https://onmilwaukee.com/articles/beloit-snappers-rebrand-sky-carp) in the process of post-prodding [Minor Details](https://www.bookspace.world/puzzle/minor-details/), necessitating a slight content change. I love the logo SO much, hence I got it on a hat.
 
 ## One More Hat
 
-![](/wp-content/uploads/2022/01/millions-of-cats-227x300.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/millions of cats.png">
 It’s worth mentioning here that I’m taking on a new hat for next year’s Hunt as the new captain of Palindrome. I’m honored to take the helm after Eric Berlin’s 15 years as our leader, and I have some MASSIVE shoes to fill, but I’m excited.
