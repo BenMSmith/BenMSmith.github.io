@@ -102,7 +102,7 @@ They didn’t, and I hope this provided a cleansing sorbet in the midst of some 
 
 ## Reference Point: **[Diced Turkey Hash](https://www.bookspace.world/puzzle/diced-turkey-hash/)**
 
-<p align="center"><img src="/wp-content/uploads/2022/01/IMG_5098-768x1024.jpg)" width=500><img src="/wp-content/uploads/2022/01/IMG_5103-2-768x1024.jpg" width=500></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/IMG_5098-2-768x1024.jpg)" width=500><img src="/wp-content/uploads/2022/01/IMG_5103-2-768x1024.jpg" width=500></p>
 Once Gavin Edwards had the idea for this and a provisional version had been testsolved a few times, I contributed by pulling together the final art and symbols used for the dice. The Noun Project was a tremendous help in finding representations for all of these, and the final product was beautiful. The process of getting this tested in time to make a production deadline to have the dice by early December was a *journey*.
 
 ## Howtoona: **[How to Have It All](https://www.bookspace.world/puzzle/how-to-have-it-all/)**
