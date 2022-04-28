@@ -92,7 +92,7 @@ The podcast will still be online for a few months, but a post-Hunt version of th
 <p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-3.18.11-PM-1024x508.png">
 <p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-11.05.13-AM-1024x197.png"></p>
 
-also, all of the recipes from this are real recipes, slightly modified. I am so excited to bring a Rupjmaizes Kartoujums to every party I get invited to this year now that I’ve learned how delicious it is [and how easy it is to make](https://www.bookspace.world/puzzle/a-handful-of-dishes/solution/) 
+also, all of the recipes from this are real recipes, slightly modified. I am so excited to bring a Rupjmaizes Kartoujums to every party I get invited to this year now that I’ve learned how delicious it is 
 
 spoilers on the puzzle at that link.
 
