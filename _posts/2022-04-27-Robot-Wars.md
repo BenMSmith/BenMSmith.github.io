@@ -7,7 +7,7 @@ Another new month, another new MST3k, and another recipe to go with it!
 
 The second episode of this season is Robot Wars, a Full Moon Entertainment special starring Barbara Crampton. It has everything you’d want: scorpion-esque robot transportation, the same set dressed as multiple different locations, and Crystal Vista, a village preserved as it was at the time of the 1993 “Great Toxic Gas Scare”. It’s VERY cheesy, and VERY 90s, and that’s what got me to this month’s cookie.
 
-![](/assets/images/savory_dunkaroos/crystal_vista.png){:class="center" width="800px"}
+![](/assets/images/savory_dunkaroos/crystal_vista.png)
 
 What’s the most 90s cookie you can think of?
 
@@ -38,6 +38,7 @@ Making the dip starts with toasting and grinding some coriander, cumin, and card
 
 ![](/assets/images/savory_dunkaroos/04.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/05.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/06.jpeg){:width="400px"}
 ![](/assets/images/savory_dunkaroos/07.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/08.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/09.jpeg){:width="400px"}
+
 _Making green dip, layer by layer. I used two small avocados here instead of one large one._
 
 The sauce comes together in layers – first you chop the peppers and garlic, then add the cilantro and parsley and let that get all chopped up, then add the lemon and spices. This all gets finished off with olive oil, and then, since we want this to be a dip, some avocado. I later thinned this out with a few spoonfuls of greek yogurt to balance out the avocado with some extra “tang”.
@@ -48,7 +49,7 @@ The cookie dough also comes together in the food processor. Start out with the s
 
 Once that’s in place, that gets split into two “patties” you can roll out to 1/4 inch thickness, place between layers of parchement, and let hang out in the fridge for 4-5 hours to firm up. You can also cheat by putting this in the freezer for one.
 
-![](/assets/images/savory_dunkaroos/15.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/14.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/16.jpeg){:width="400px"}
+<p align="center">![](/assets/images/savory_dunkaroos/14.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/15.jpeg){:width="400px"} ![](/assets/images/savory_dunkaroos/16.jpeg){:width="400px"}</p>
 
 Each of the slabs then gets rolled out and cut into as many cookies as you can with a 1 1/2 inch diameter biscuit cutter. I have some cookie stamps, so I stamped each of these as well for that Dunkaroos feel. Once you’ve cut cookies out of each slab, knead the dough together, re-roll, and repeat the process, chilling the slab for 10 minutes as needed.
 
