@@ -62,19 +62,50 @@ Et voila! A fancy savory version of the 90s classic, perfect for noshing on whil
 ## Smoky, Cheesy Cookies
 
 ### Ingredients
+  
+- 1 stick cold butter, cut into 16 pieces (8 Tbsp)
+- 4 ounces cold smoked Gouda, cut into tiny cubes
+- 2 ounces sharp cheddar, shredded
+- 3/4 tsp kosher salt
+- 1/4 tsp ground black pepper
+- pinch of cayenne pepper
+- 1 1/4 cups all-purpose flour (170 grams)
 
-- 
-
-### Steps
-1. 
+### Instructions
+ 
+1. Put the cold butter, Gouda, cheddar, salt, black pepper, and cayenne in a food processor and pulse until the butter is in bits and the mixture forms small curds. Add the flour and pulse again, in long pulses, until the dough is moist and forms larger, popcorn-like curds.
+2. Turn the dough out and knead it gently, just until you can shape it into a ball. Divide the dough in half and pat each half into a disk.
+3. Working with one disk at a time, roll to a thickness of 1/4 inch. Place each slab between two pieces of parchment paper and chill for 4-5 hours
+4. When ready to bake, preheat your oven to 350 degrees F. LIne a baking sheet with parchment or a silicone baking mat.
+5. Working with one piece of dough at a time, use a 1.5 inch-diameter cookie cutter to cut as many cookies as possible from each slab of dough and place them on the lined baking sheet.
+6. Gather the scraps, re-roll, chill for 10 minutes, cut, and so on, until you’ve used all your dough.
+7. Bake the cookies for 16 to 18 minutes, rotating the baking sheets after 9 minutes, or until they’re lightly golden on top and more golden on the bottom. Let the cookies rest on the baking sheet for a couple of minutes, then transfer them to a rack and cool completely.
 
 ----
 
 ## Green Dip
 
 ### Ingredients
+  
+- 1/2 tsp coriander seeds
+- 1 tsp cumin seeds
+- 4 green cardamom pods’ worth of cardamom seeds
+- 2 jalapeno or serrano chiles deribbed and seeded
+- 1-3 garlic cloves smashed and peeled
+- 2 cups lightly-packed cilantro leaves
+- 2 cups lightly-packed flat-leaf parsley leaves
+- 1 tsp lemon zest
+- 1 Tbsp lemon juice
+- black pepper
+- 1/2 cup olive oil
+- 1 large avocado
+- greek yogurt
 
-- 
+### Instructions
+ 
+1. Put the coriander, cumin, and cardamom seeds into a dry skillet. Toast the spices lightly over medium heat, shaking the pan frequently, just until they become fragrant, about 4 minutes. Let these cool for a few minutes, then grind fine in a spice grinder or with a mortar and pestle.
+2. Put the chiles and garlic in a food processor and pulse a few times until they are fairly finely chopped. Add the cilantro, parsley, the mixture from the spice grinder, ground cloves, lemon zest, lemon juice, 1 tsp kosher salt, and a few shakes of black pepper. Pulse until all is finely chopped into a rough puree.
+3. With the motor running, drizzle in the olive oil. Stop before the sauce is completely blended smooth. add the flesh of the avocado and continue to mix until completely combined, but still textured.
+4. Taste and adjust the seasoning with salt and pepper. Pour into a bowl and stir in a few spoonfuls of Greek yogurt.
 
-### Steps
-1. 
+*Store in the fridge for up to a week.*
