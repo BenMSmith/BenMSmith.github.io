@@ -54,7 +54,7 @@ after not finding ANYTHING that looked like the Mr. Music pants from the *Sack L
 
 ## Alexei/Mr. Music on a Budget
 
-<p align="center"><img src="wp-content/uploads/2020/11/lets_adapt.gif"></p>
+<p align="center"><img src="/wp-content/uploads/2020/11/lets_adapt.gif"></p>
 
 If we had needed it, I was prepared to build another one of these jackets for our team, and this is what the “budget” version would have been:
 
