@@ -7,20 +7,19 @@ layout: post
 
 In 2018, MST3k turned 30, and so did I. I celebrated this by getting VIP tickets to the Anniversary tour’s Boston stop. This is where I first saw the fantastic tour jackets Jonah, Joel, and the various other performers have:
 
-![](/wp-content/uploads/2022/01/43592828_904511524783_2708274873548931072_n-1024x786.jpeg)
+<p align="center"><img src="/wp-content/uploads/2022/01/43592828_904511524783_2708274873548931072_n-1024x786.jpeg"></p>
 After the Q&amp;A, I checked out the merch stand, hoping this was something they had a limited quantity of so I could throw an absurd amount of money at the problem; alas, these aren’t for sale. Luckily, I could throw a slightly-more-reasonable amount of money at the problem by making my own, and so I did in 2019 after scoping out the various bits and pieces.
 
 ## Background and MST3k’s Aesthetics
 
 I’m no stranger to MST3k cosplay, having built out both a Jonah-yellow jumpsuit in 2017 for the first live tour and a Bonehead outfit for a halloween party later that year (though that one largely happened the same year because I found the right kind of swim vest *in my size* for $20 on eBay and jumped on it)
 
-![](/wp-content/uploads/2022/01/20767773_835078214693_9196896608848405636_n.jpeg)
-![](/wp-content/uploads/2022/01/22467665_846417081513_1354811953251643718_o-819x1024.jpeg)
+<p align="center"><img src="/wp-content/uploads/2022/01/20767773_835078214693_9196896608848405636_n.jpeg" width="500"><img src="/wp-content/uploads/2022/01/22467665_846417081513_1354811953251643718_o-819x1024.jpeg" width=500></p>
 When I’m building out a costume, I tend to go for shows where I can see the bits and pieces of what things are made of fairly easily. This is partly why I love Mystery Science Theater’s aesthetic – since the show’s original incarnation, it’s been very happy for you to see its home-spun nature where you can tell everything that’s been glued to the wall and spray-painted gray.
 
 This also extended to this project – I just needed to find the right jacket, get it the right color, and add the appropriate patches.
 
-![](/wp-content/uploads/2022/01/IMG_5133-1-1024x768.jpg)
+<p align="center"><img src="/wp-content/uploads/2022/01/IMG_5133-1-1024x768.jpg"></p>
 ## What You’ll Need
 
 If you want to make one of these jackets for yourself, here’s what you’ll need:
@@ -71,6 +70,4 @@ And that’s it! The dye part is a little scary, but RIT makes it pretty foolpro
 
 If you liked this, you’ll probably like my write-up of [how to make the Mr. Music jacket](http://www.benmsmith.com/blog/is-mr-music-okay/) from John Mulaney’s *Sack Lunch Bunch* special. I’ve also pulled together various Doctors Who, The Middleman, and Star-Lord for various Halloween parties:
 
-![](/wp-content/uploads/2022/01/1147487_10151928268910837_1654933213_o-1024x768.jpeg)
-![](/wp-content/uploads/2022/01/176961_580014000423_1330897529_o-768x1024.jpeg)
-![](/wp-content/uploads/2022/01/1262865_667153776613_7231380192877247260_o-1-1022x1024.jpeg)
+<p align="center"><img src="/wp-content/uploads/2022/01/1147487_10151928268910837_1654933213_o-1024x768.jpeg" width=400><img src="/wp-content/uploads/2022/01/176961_580014000423_1330897529_o-768x1024.jpeg" width=400><img src="/wp-content/uploads/2022/01/1262865_667153776613_7231380192877247260_o-1-1022x1024.jpeg" width=400></p>

@@ -2,10 +2,10 @@
 title: 'Mystery Hunt 2022: Is  ̶M̶r̶.̶ ̶M̶u̶s̶i̶c̶ Alexei Lewis Okay?'
 layout: post
 ---
-
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png">
 From the second we needed a Minister of Music for this year’s Mystery Hunt theme, I wanted to play them, largely *because I had most of the outfit already*. I had one specific visual reference in mind:
 
-![](/wp-content/uploads/2020/11/mrmusic.gif)
+<p align="center"><img src="/wp-content/uploads/2020/11/mrmusic.gif">
 
 There’s also bits of [Mr. B. Natural](https://www.youtube.com/watch?v=cAKentKiGOY) and [the Dean’s peanut bar rap](https://www.youtube.com/watch?v=WZ2TC8duaoE) from Community in how the character finally shook out, but I had built [Mr. Music](https://www.youtube.com/watch?v=ddNNN80A_7Y)‘s outfit a few years ago for Quarantine Halloween and wanted to use it publicly for *something*.
 
@@ -13,11 +13,11 @@ I needed a project to stop from doomscrolling in September/October 2020, so this
 
 For Mystery Hunt, to keep things distinct I grew out a super-scruffy beard (since I couldn’t find a decent fake moustache to keep half-hanging off of my upper lip) and et voila:
 
-![](/wp-content/uploads/2020/11/IMG_5225-768x1024.jpg)![](/wp-content/uploads/2020/11/IMG_5227-1024x768.jpg)![](/wp-content/uploads/2020/11/IMG_5228-1024x768.jpg)
+<p align="center"><img src="/wp-content/uploads/2020/11/IMG_5225-768x1024.jpg" width=400><img src="/wp-content/uploads/2020/11/IMG_5227-1024x768.jpg" width=400><img src="/wp-content/uploads/2020/11/IMG_5228-1024x768.jpg" width=400></p>
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="295" loading="lazy" src="https://www.youtube.com/embed/BoY1_zKDqgM?feature=oembed" title="Alexei Lewis" width="525"></iframe>
 
-![](/wp-content/uploads/2020/11/ezgif.com-gif-maker_1.gif)
+<p align="center"><img src="/wp-content/uploads/2020/11/ezgif.com-gif-maker_1.gif"></p>
 
 ## Anatomy of  ̶a̶ ̶M̶r̶.̶ ̶M̶u̶s̶i̶c̶ an Alexei Lewis costume
 
@@ -53,7 +53,7 @@ after not finding ANYTHING that looked like the Mr. Music pants from the *Sack L
 
 ## **Alexei/Mr. Music on a Budget**
 
-![](/wp-content/uploads/2020/11/ezgif.com-gif-maker.gif)
+<p align="center"><img src="wp-content/uploads/2020/11/ezgif.com-gif-maker.gif">
 
 If we had needed it, I was prepared to build another one of these jackets for our team, and this is what the “budget” version would have been:
 

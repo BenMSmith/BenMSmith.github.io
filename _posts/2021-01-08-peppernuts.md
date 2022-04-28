@@ -3,11 +3,11 @@ title: Peppernuts
 layout: post
 ---
 
-![](/wp-content/uploads/2021/01/peppernuts-1024x1024.jpg)
+<p align="center"><img src="/wp-content/uploads/2021/01/peppernuts-1024x1024.jpg"></p>
 
 This is a family recipe that I was given under the strict promise to not give it to anyone. In response to that, I have given it to everyone who’s asked.
 
-DO NOT DOUBLE THIS BATCH, this makes enough teeny-tiny licorice-flavored cookies to fill a 9×13 gladware container.
+*DO NOT DOUBLE THIS BATCH*, this makes enough teeny-tiny licorice-flavored cookies to fill a 9×13 gladware container.
 
 ## Ingredients
 

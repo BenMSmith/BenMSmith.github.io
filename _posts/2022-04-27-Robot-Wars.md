@@ -57,6 +57,8 @@ Each sheet of these bakes for 16-18 minutes and comes out slightly puffed and go
 
 Et voila! A fancy savory version of the 90s classic, perfect for noshing on while you sit through that Crystal Vista Timeshare meeting.
 
+Up next: Can't we just get *Beyond Atlantis?*
+
 ----
 
 ## Smoky, Cheesy Cookies
