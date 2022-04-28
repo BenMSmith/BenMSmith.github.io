@@ -94,7 +94,7 @@ The podcast will still be online for a few months, but a post-Hunt version of th
 
 also, all of the recipes from this are real recipes, slightly modified. I am so excited to bring a Rupjmaizes Kartoujums to every party I get invited to this year now that I’ve learned how delicious it is [and how easy it is to make](https://www.bookspace.world/puzzle/a-handful-of-dishes/solution/) 
 
-(spoilers on the puzzle at that link).
+spoilers on the puzzle at that link.
 
 ## Whoston: **[THIS IS NOW A PUZZLE](https://www.bookspace.world/puzzle/this-is-now-a-puzzle/)**
 
