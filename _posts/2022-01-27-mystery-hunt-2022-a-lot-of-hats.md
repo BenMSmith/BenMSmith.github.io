@@ -97,5 +97,5 @@ Fun fact: the hat I was literally wearing here is the logo of the [Beloit Sky Ca
 
 ## One More Hat
 
-<p align="center"><img src="/wp-content/uploads/2022/01/millions of cats.png">
+<p align="center"><img src="/wp-content/uploads/2022/01/millions of cats.png" width=400></p>
 It’s worth mentioning here that I’m taking on a new hat for next year’s Hunt as the new captain of Palindrome. I’m honored to take the helm after Eric Berlin’s 15 years as our leader, and I have some MASSIVE shoes to fill, but I’m excited.
