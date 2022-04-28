@@ -22,11 +22,11 @@ For Mystery Hunt, to keep things distinct I grew out a super-scruffy beard (sinc
 
 <p align="center"><img src="/wp-content/uploads/2020/11/alexei.gif"></p>
 
-### **The Jacket**
+### The Jacket
 
 This was surprisingly easy! This is a [Ro Rox Men’s Parade Jacket Gothic Tailcoat ](https://www.amazon.com/gp/product/B07RP8GJLR/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)in black. It was $60 on Amazon when I bought it and appears to be more expensive now, so shop around.
 
-### **Xylophone Bits**
+### Xylophone Bits
 
 If you’re insane like me and want to affix around 2 pounds of metal to your jacket, [you will need two of these](http://amazon.com/gp/product/B07BBK42TK/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) from Amazon. They are surprisingly easy to dismantle (despite claiming to be “TIGHT And PREOTECT THE BARS FROM REMOVING”) if you have a decent pair of pliers and need something to do with your hands other than doomscroll Twitter on your phone.
 
@@ -36,11 +36,11 @@ The main update I made to this jacket for Mystery Hunt (after also testing and l
 
 You could also probably, you know, sew them on? I have many skills but that’s not one of them *yet*.
 
-### **Patches**
+### Patches
 
 ETSY. Etsy is a goldmine for patches and iron-ons. I bought a few sizes of treble clef, and various music note configurations, all in gold. The MUSIC shoulder patches appear to be some kind of easily findable template as well. These were ironed on where possible and have been re-affixed over the past year with hot glue and velcro when they’ve really started coming off the jacket.
 
-### **Shirt**
+### Shirt
 
 When I was assembling the costume, I just wanted a disgusting sateen-y gold thing like the original costume. Amazon has tons of these and you should not spend more than $20 on one. [I went this this one](https://www.amazon.com/gp/product/B07R1SDP7H/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1). I hate it and it’s perfect.
 
@@ -48,11 +48,11 @@ I put some music notes-y Washi tape I found at Michael’s that is barely holdin
 
 For Mystery Hunt, I had a normal cotton button-down with black stars on it, partially because that felt more distinct character-wise and also because I knew I was going to be sweating and didn’t want to be in a gross fake sateen-y shirt for that long.
 
-### **Pants**
+### Pants
 
 after not finding ANYTHING that looked like the Mr. Music pants from the *Sack Lunch Bunch*, when I put the jacket and glockenspiels in my Amazon cart, Amazon asked if I wanted to buy [this BTS-ass suit](http://amazon.com/gp/product/B0771K173X/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) which has what appear to be the actual pants? Like most fashion-y things from Amazon, take a look at the size chart before ordering.
 
-## **Alexei/Mr. Music on a Budget**
+## Alexei/Mr. Music on a Budget
 
 <p align="center"><img src="wp-content/uploads/2020/11/lets_adapt.gif"></p>
 
