@@ -55,12 +55,18 @@ Each of the slabs then gets rolled out and cut into as many cookies as you can w
 
 Each sheet of these bakes for 16-18 minutes and comes out slightly puffed and golden. Let them cool on the sheet for a few minutes, then finish cooling on a rack.
 
-[final photos]
-
 Et voila! A fancy savory version of the 90s classic, perfect for noshing on while you sit through that Crystal Vista Timeshare meeting.
 
-What do you think, Mads?
+----
 
-[recipe 1 here]
+## Smoky, Cheesy Cookies
 
-[recipe 2 here]
+### Ingredients
+
+- 
+
+## Green Dip
+
+### Ingredients
+
+- 
