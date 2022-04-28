@@ -14,9 +14,9 @@ I needed a project to stop from doomscrolling in September/October 2020, so this
 For Mystery Hunt, to keep things distinct I grew out a super-scruffy beard (since I couldn’t find a decent fake moustache to keep half-hanging off of my upper lip) and et voila:
 
 <p align="center"><img src="/wp-content/uploads/2020/11/IMG_5225-768x1024.jpg" width=500></p>
-<p><img src="/wp-content/uploads/2020/11/IMG_5227-1024x768.jpg" width=400>   <img src="/wp-content/uploads/2020/11/IMG_5228-1024x768.jpg" width=400></p>
+<p align="center"><img src="/wp-content/uploads/2020/11/IMG_5227-1024x768.jpg" width=400>   <img src="/wp-content/uploads/2020/11/IMG_5228-1024x768.jpg" width=400></p>
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="295" loading="lazy" src="https://www.youtube.com/embed/BoY1_zKDqgM?feature=oembed" title="Alexei Lewis" width="525"></iframe>
+<p align="center"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="295" loading="lazy" src="https://www.youtube.com/embed/BoY1_zKDqgM?feature=oembed" title="Alexei Lewis" width="525"></iframe></p>
 
 <p align="center"><img src="/wp-content/uploads/2020/11/ezgif.com-gif-maker_1.gif"></p>
 
