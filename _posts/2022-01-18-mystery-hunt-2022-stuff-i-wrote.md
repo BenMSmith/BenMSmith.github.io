@@ -3,7 +3,7 @@ title: 'Mystery Hunt 2022: Stuff I Wrote'
 layout: post
 ---
 
-<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png" width=800></p>
 I did a *lot* of stuff for the 2022 Mystery Hunt. Before Palindrome won, I had realized that the growth of online puzzlehunts had meant that I didn’t need to necessarily keep my ideas as just “Hunt puzzles” and could probably write something where they could appear, and had made a sense of peace with potentially never writing for an actual Hunt.
 
 Anyways, then Palindrome won the Hunt in 2021. It was a uniquely good year for me to be able to write, and since I already didn’t think I was going to get to do this and the fact I did made it feel like a gift, I threw myself into the process as though I was never going to get the chance to do it again.

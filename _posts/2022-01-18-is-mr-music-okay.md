@@ -2,7 +2,7 @@
 title: 'Mystery Hunt 2022: Is  ̶M̶r̶.̶ ̶M̶u̶s̶i̶c̶ Alexei Lewis Okay?'
 layout: post
 ---
-<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png" width=800></p>
 From the second we needed a Minister of Music for this year’s Mystery Hunt theme, I wanted to play them, largely *because I had most of the outfit already*. I had one specific visual reference in mind:
 
 <p align="center"><img src="/wp-content/uploads/2020/11/mrmusic.gif"></p>

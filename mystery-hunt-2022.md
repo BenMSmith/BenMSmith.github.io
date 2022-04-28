@@ -4,7 +4,7 @@ title: Mystery Hunt 2022
 permalink: /mystery-hunt-2022/
 ---
 
-<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png"></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/bookspace2-1024x576.png" width=800></p>
 
 I was part of the team that wrote the [2022 MIT Mystery Hunt](https://puzzles.mit.edu/2022/).  As part of wrapping up that year-long project, I wrote a bunch of blog posts about my experience with that.
 
