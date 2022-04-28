@@ -3,7 +3,7 @@ title: Peppernuts
 layout: post
 ---
 
-<p align="center"><img src="/wp-content/uploads/2021/01/peppernuts-1024x1024.jpg"></p>
+<p align="center"><img src="/wp-content/uploads/2021/01/peppernuts-1024x1024.jpg" width=400></p>
 
 This is a family recipe that I was given under the strict promise to not give it to anyone. In response to that, I have given it to everyone who’s asked.
 

@@ -3,7 +3,7 @@ title: 'Oreo Cheesecake Cookies'
 layout: post
 ---
 
-<p align="center"><img src="/wp-content/uploads/2021/01/oreo-cheesecake.jpg"></p>
+<p align="center"><img src="/wp-content/uploads/2021/01/oreo-cheesecake.jpg" width=400></p>
 
 These are a riff on a [Cherry Cheesecake cookie](https://www.confessionsofacookbookqueen.com/cherry-cheesecake-cookies/) America’s Test Kitchen featured in a Holiday Cookies issue. If you really want to make these fancy, pick up a few cans of pie filling like the original recipe asks for and put 2-3 in a well in the center of each cookie.
 

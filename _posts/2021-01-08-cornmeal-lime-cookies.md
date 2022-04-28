@@ -3,7 +3,7 @@ title: 'Cornmeal Lime Cookies'
 layout: post
 ---
 
-<p align="center"><img src="/wp-content/uploads/2021/01/cornmeal-lime-1024x1024.jpg"></p>
+<p align="center"><img src="/wp-content/uploads/2021/01/cornmeal-lime-1024x1024.jpg" width=400></p>
 
 These are a recipe from Flour, a local bakery. I make them better because the cookie is smaller and the glaze has more lime juice so there’s more of an interplay between sweet and sour.
 
