@@ -20,7 +20,7 @@ For Mystery Hunt, to keep things distinct I grew out a super-scruffy beard (sinc
 
 ## Anatomy of  ̶a̶ ̶M̶r̶.̶ ̶M̶u̶s̶i̶c̶ an Alexei Lewis costume
 
-<p align="center"><img src="/wp-content/uploads/2020/11/ezgif.com-gif-maker_1.gif"></p>
+<p align="center"><img src="/wp-content/uploads/2020/11/alexei.gif"></p>
 
 ### **The Jacket**
 
@@ -54,7 +54,7 @@ after not finding ANYTHING that looked like the Mr. Music pants from the *Sack L
 
 ## **Alexei/Mr. Music on a Budget**
 
-<p align="center"><img src="wp-content/uploads/2020/11/ezgif.com-gif-maker.gif"></p>
+<p align="center"><img src="wp-content/uploads/2020/11/lets_adapt.gif"></p>
 
 If we had needed it, I was prepared to build another one of these jackets for our team, and this is what the “budget” version would have been:
 
