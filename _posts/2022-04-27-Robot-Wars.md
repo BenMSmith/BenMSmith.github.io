@@ -36,19 +36,19 @@ These turned out great – the cheesiness of the cookies balances perfectly with
 
 Making the dip starts with toasting and grinding some coriander, cumin, and cardamon seeds. Toasting brings out the flavors a little more, so don’t skip this step. I use a cheap $10 coffee grinder from Amazon for grinding spices (and ONLY grinding spices), but you could also use a mortar and pestle here.
 
-[dip montage]
-
+![](/assets/images/savory_dunkaroos/04.jpeg){:width="400px" class="center"} ![](/assets/images/savory_dunkaroos/05.jpeg){:width="400px" class="center"} ![](/assets/images/savory_dunkaroos/06.jpeg){:width="400px" class="center"}
+![](/assets/images/savory_dunkaroos/07.jpeg){:width="400px" class="center"} ![](/assets/images/savory_dunkaroos/08.jpeg){:width="400px" class="center"} ![](/assets/images/savory_dunkaroos/09.jpeg){:width="400px" class="center"}
 _Making green dip, layer by layer. I used two small avocados here instead of one large one._
 
 The sauce comes together in layers – first you chop the peppers and garlic, then add the cilantro and parsley and let that get all chopped up, then add the lemon and spices. This all gets finished off with olive oil, and then, since we want this to be a dip, some avocado. I later thinned this out with a few spoonfuls of greek yogurt to balance out the avocado with some extra “tang”.
 
-[cookie montage]
+![](/assets/images/savory_dunkaroos/10.jpeg){:width="300px" class="center"} ![](/assets/images/savory_dunkaroos/11.jpeg){:width="300px" class="center"} ![](/assets/images/savory_dunkaroos/12.jpeg){:width="300px" class="center"} ![](/assets/images/savory_dunkaroos/13.jpeg){:width="300px" class="center"}
 
 The cookie dough also comes together in the food processor. Start out with the smoked gouda (and this doesn’t need to be fancy – I’m using the $3.99 grocery store special here), butter, cheddar, and cayenne, pulsing to small curds, then add the flour and keep pulsing until you get larger popcorn-y curds that start to form your dough ball.
 
 Once that’s in place, that gets split into two “patties” you can roll out to 1/4 inch thickness, place between layers of parchement, and let hang out in the fridge for 4-5 hours to firm up. You can also cheat by putting this in the freezer for one.
 
-[cookie montage 2]
+![](/assets/images/savory_dunkaroos/15.jpeg){:width="400px" class="center"} ![](/assets/images/savory_dunkaroos/14.jpeg){:width="400px" class="center"} ![](/assets/images/savory_dunkaroos/16.jpeg){:width="400px" class="center"}
 
 Each of the slabs then gets rolled out and cut into as many cookies as you can with a 1 1/2 inch diameter biscuit cutter. I have some cookie stamps, so I stamped each of these as well for that Dunkaroos feel. Once you’ve cut cookies out of each slab, knead the dough together, re-roll, and repeat the process, chilling the slab for 10 minutes as needed.
 
