@@ -18,11 +18,10 @@ Here’s a list of the things I hand a hand in writing/creating for Hunt. I plan
 
 I had made a tweet sometime in the last year that was just this image:
 
-![](/wp-content/uploads/2022/01/Screen_Shot_2021-04-03_at_11.09.15_PM-1024x273.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen_Shot_2021-04-03_at_11.09.15_PM-1024x273.png"></p>
 I’m very grateful Mike Nothnagel reminded me of that and wanted to write a puzzle riffing on that which ended up getting used in the prologue Hunt we wrote. Here are some other behind-the-scenes images:
 
-![](/wp-content/uploads/2022/01/Screen_Shot_2021-11-28_at_11.55.51_AM-1024x247.png)
-![](/wp-content/uploads/2022/01/Screen_Shot_2021-11-28_at_11.56.11_AM-1024x225.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen_Shot_2021-11-28_at_11.55.51_AM-1024x247.png" width=500><img src="/wp-content/uploads/2022/01/Screen_Shot_2021-11-28_at_11.56.11_AM-1024x225.png" width=500></p>
 
 ## The Investigation: **[Ada Twist, Scientist](https://www.starrats.org/puzzle/ada-twist-scientist/)**
 
@@ -89,9 +88,9 @@ That felt like a puzzle idea, and this was one of the first puzzles I pitched to
 
 The podcast will still be online for a few months, but a post-Hunt version of the puzzle will have all of the audio on the page. Still, it was fun to watch the stats chart for the podcast have a dramatic increase in listenership over the course of the weekend, and we even managed to place on the Apple Podcasts chart in Malaysia for “How-To” podcasts:
 
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-3.18.03-PM-1024x438.png)
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-3.18.11-PM-1024x508.png)
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-11.05.13-AM-1024x197.png)
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-3.18.03-PM-1024x438.png"></p>
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-3.18.11-PM-1024x508.png">
+<p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-18-at-11.05.13-AM-1024x197.png">
 also, all of the recipes from this are real recipes, slightly modified. I am so excited to bring a Rupjmaizes Kartoujums to every party I get invited to this year now that I’ve learned how delicious it is [and how easy it is to make](https://www.bookspace.world/puzzle/a-handful-of-dishes/solution/) (spoilers on the puzzle at that link).
 
 ## Whoston: **[THIS IS NOW A PUZZLE](https://www.bookspace.world/puzzle/this-is-now-a-puzzle/)**
@@ -102,8 +101,7 @@ They didn’t, and I hope this provided a cleansing sorbet in the midst of some 
 
 ## Reference Point: **[Diced Turkey Hash](https://www.bookspace.world/puzzle/diced-turkey-hash/)**
 
-![](/wp-content/uploads/2022/01/IMG_5098-1-768x1024.jpg)
-![](/wp-content/uploads/2022/01/IMG_5103-2-2-768x1024.jpg)
+<p align="center"><img src="/wp-content/uploads/2022/01/IMG_5098-768x1024.jpg)" width=500><img src="/wp-content/uploads/2022/01/IMG_5103-2-768x1024.jpg" width=500></p>
 Once Gavin Edwards had the idea for this and a provisional version had been testsolved a few times, I contributed by pulling together the final art and symbols used for the dice. The Noun Project was a tremendous help in finding representations for all of these, and the final product was beautiful. The process of getting this tested in time to make a production deadline to have the dice by early December was a *journey*.
 
 ## Howtoona: **[How to Have It All](https://www.bookspace.world/puzzle/how-to-have-it-all/)**
