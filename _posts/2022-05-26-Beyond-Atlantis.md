@@ -9,7 +9,7 @@ And oh, what a movie to debut with.  _Beyond Atlantis_ definitely has a beginnin
 
 During my first watch, all the talk of pearls made me think of pearl sugar, and pearl sugar made me think of cardamom buns:
 
-[photo]
+<p align="center"><img src="assets/images/cardamom_pearls/swedish-cardamom-buns-1.jpeg" width="500"></p>
 
 I love them, but they're just fussy enough in the shaping process (I usually just make [one big bun](https://www.bonappetit.com/recipe/giant-cardamom-bun)) to want to go a different direction.  
 
