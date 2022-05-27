@@ -9,7 +9,7 @@ And oh, what a movie to debut with.  _Beyond Atlantis_ definitely has a beginnin
 
 During my first watch, all the talk of pearls made me think of pearl sugar, and pearl sugar made me think of cardamom buns:
 
-<p align="center"><img src="assets/images/cardamom_pearls/swedish-cardamom-buns-1.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/swedish-cardamom-buns-1.jpeg" width="500"></p>
 
 I love them, but they're just fussy enough in the shaping process (I usually just make [one big bun](https://www.bonappetit.com/recipe/giant-cardamom-bun)) to want to go a different direction.  
 
@@ -17,34 +17,34 @@ I also looked into Filipinx sweets to see if anything from the movie's filming l
 
 And then it hit me: what if I mashed up all of these things into one tasty bite?  And that's how we got this month's Cardamom Pearls:
 
-<p align="center"><img src="assets/images/cardamom_pearls/cardamompearls.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/cardamompearls.jpeg" width="500"></p>
 
 These are a riff on a sugar cookie from Dorie Greenspan that's rolled in pearl sugar, but with the added additions of cardamom (because cardamom buns) and toasting the flour for additional depth of flavor (like you do with polvoron).  Once these cool, they've got a nice crunch that would be perfect with a cup of tea.
 
 First up: toasting the flour:
-<p align="center"><img src="assets/images/cardamom_pearls/1.jpeg" width="400"><img src="assets/images/cardamom_pearls/2.jpeg" width="400"><img src="assets/images/cardamom_pearls/3.jpeg" width="400"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/1.jpeg" width="400"><img src="/assets/images/cardamom_pearls/2.jpeg" width="400"><img src="/assets/images/cardamom_pearls/3.jpeg" width="400"></p>
 
 Over medium heat, you're going to put your flour in a wide skillet and gently stir it until the flour looks like the beach from the movie - nice and toasty.  Once this is done, stir in the cardamom and set aside to cool for 5-10 minutes.
 
 While that's cooling, the sugar and butter get creamed together, then an egg white and vanilla is added.
 
-<p align="center"><img src="assets/images/cardamom_pearls/4.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/4.jpeg" width="500"></p>
 
 Finally, the cooled flour/cardamom are added in 3 batches, just until combined.
 
-<p align="center"><img src="assets/images/cardamom_pearls/5.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/5.jpeg" width="500"></p>
 
 Once that's done, I used a smaller cookie scoop (though you could use a heaping teaspoon or two) to make balls of dough, then rolled each dough ball in pearl sugar to encrust it, placing the cookies about an inch apart on a parchment-lined cookie sheet.
 
-<p align="center"><img src="assets/images/cardamom_pearls/6.jpeg" width="450"><img src="assets/images/cardamom_pearls/7.jpeg" width="450"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/6.jpeg" width="450"><img src="/assets/images/cardamom_pearls/7.jpeg" width="450"></p>
 
 Before getting baked, the cookies get a quick press from a plastic wrap-lined jar.
 
-<p align="center"><img src="assets/images/cardamom_pearls/8.jpeg" width="500"></p> 
+<p align="center"><img src="/assets/images/cardamom_pearls/8.jpeg" width="500"></p> 
 
 These then go into a 350 degree oven for 20 minutes, rotating the batches halfway through.
 
-<p align="center"><img src="assets/images/cardamom_pearls/cardamompearls.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/cardamompearls.jpeg" width="500"></p>
 
 And there we go!  No need to fight over _these_ pearls with East Eddie.
 
