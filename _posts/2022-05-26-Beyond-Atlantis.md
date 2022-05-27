@@ -36,15 +36,15 @@ Finally, the cooled flour/cardamom are added in 3 batches, just until combined.
 
 Once that's done, I used a smaller cookie scoop (though you could use a heaping teaspoon or two) to make balls of dough, then rolled each dough ball in pearl sugar to encrust it, placing the cookies about an inch apart on a parchment-lined cookie sheet.
 
-<p align="center"><img src="/assets/images/cardamom_pearls/6.jpeg" width="450"><img src="/assets/images/cardamom_pearls/7.jpeg" width="450"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/6.jpeg" width="450"></p>
 
 Before getting baked, the cookies get a quick press from a plastic wrap-lined jar.
 
-<p align="center"><img src="/assets/images/cardamom_pearls/8.jpeg" width="500"></p> 
+<p align="center"><img src="/assets/images/cardamom_pearls/7.jpeg" width="450"></p> 
 
 These then go into a 350 degree oven for 20 minutes, rotating the batches halfway through.
 
-<p align="center"><img src="/assets/images/cardamom_pearls/cardamompearls.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/cardamom_pearls/8.jpeg" width="500"></p> 
 
 And there we go!  No need to fight over _these_ pearls with East Eddie.
 
