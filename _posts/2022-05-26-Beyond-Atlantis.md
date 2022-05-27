@@ -5,6 +5,8 @@ title: "We’ve Got Cookie Sign: Beyond Atlantis (S13E3)"
 
 We've got a new host!  I've seen Emily on both of the live tours she's been the host on, and I love the energy her and her bots brought to their debut - there's a big "theater kid" energy to this cast that just works.
 
+<p align="center"><img src="/assets/images/cardamom_pearls/header.png" width="800"></p>
+
 And oh, what a movie to debut with.  _Beyond Atlantis_ definitely has a beginning, middle, and end, but I'd have a hard time defining what the exact point of the plot is.  If nothing else, we got some _primo_ host segments - "Mothercrabber" immediately rocketed to the list of all-time great MST3k songs.
 
 During my first watch, all the talk of pearls made me think of pearl sugar, and pearl sugar made me think of cardamom buns:
