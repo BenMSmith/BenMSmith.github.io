@@ -21,7 +21,7 @@ Have you had brownie brittle?  It's one of the snacks currently served on Southw
 
 The advantage to making one's own brownie brittle is that you can adapt your favorite brownie recipe to it.  My current go-to is from Milk Street, and swirls tahini into the mix.  If you're not familiar, tahini is essentially the sesame version of peanut butter.  It pops up in mediterranean/middle eastern cooking a lot, and it's great at adding nutty flavor.  In this case, it's perfect for swirling into a batch of brownies, though we'll add it to all of the batter to make sure the flavor's all throughout the brittle.
 
-Adapting these to brittle form felt like a perfect fit for this movie - starting with what feels like a bit of a knock-off, but ultimately making something with its own whole flavor.  So with that in mind, here's ~~Sheila G's Brownie Brittle~~ **Doctor M's Chocolate-Tahini Rubble**:
+Adapting these to brittle form felt like a perfect fit for this movie - starting with what feels like a bit of a knock-off, but ultimately making something with its own whole flavor.  So with that in mind, here's ~~Sheila G.'s Brownie Brittle~~ **Doctor M.'s Chocolate-Tahini Rubble**:
 
 <p align="center"><img src="/assets/images/doctor_mordrid/brownie_rubble.jpeg" width="600"></p>
 
@@ -63,7 +63,7 @@ Next time: Joel's back!  for..._Demon Squad_?
 
 ----
 
-## Doctor M's Chocolate-Tahini Rubble
+## Doctor M.'s Chocolate-Tahini Rubble
 _adapted from Milk Street's [Tahini Swirl Brownies](https://www.177milkstreet.com/recipes/tahini-swirl-brownies)_
 
 ### Ingredients
