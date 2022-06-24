@@ -5,7 +5,7 @@ title: "We’ve Got Cookie Sign: Doctor Mordrid (S13E5)"
 
 Alright, let's talk about _Doctor Mordrid_.
 
-<p align="center"><img src="/assets/images/doctor_mordrid/header.jpg" width="800"></p>
+<p align="center"><img src="/assets/images/doctor_mordrid/header.png" width="800"></p>
 
 There's a bit of apocrypha about _Doctor Mordrid_ that's become fact - it was meant to be a _Doctor Strange_ movie, right were ripped away, and the producers changed just as much as they needed to make it Similar But Legally Distinct.  The post-show for this episode helped correct that - there's a lot of _Strange_ in this movie, but it was ultimately written as something very similar, but with its own whole flavor.
 
@@ -13,7 +13,7 @@ My initial thought when conceptualizing recipes while watching the episode was t
 
 First off, skip Oreos.  Oreos are the Captain America/Iron Man of snack cookies - everyone knows them, they constantly pop up in the _Times_ crossword, etc.  I needed something a few rungs down the MCU ladder, but for snacks.  And that felt like a perfect fit for another idea I've been tinkering with: homemade brownie brittle.
 
-<p align="center"><img src="/assets/images/doctor_mordrid/browniebrittle.jpg" width="400"></p>
+<p align="center"><img src="/assets/images/doctor_mordrid/browniebrittle.jpeg" width="400"></p>
 
 Have you had brownie brittle?  It's one of the snacks currently served on Southwest flights, which was the first place I had actually tried the stuff for myself.  It's a fantastic idea - the crispy edges of a brownie are often my favorite part, and this felt like it would involve waaaaaaay less clean-up than bringing out the Baker's Edge pan that's been sitting in the cupboard above my fridge along with all the other rarely-trotted-out kitchenware I have (my ramekins, my gravy separator, etc.  The special occasion stuff).
 
