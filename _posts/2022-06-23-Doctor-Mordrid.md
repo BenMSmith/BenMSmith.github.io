@@ -13,7 +13,7 @@ My initial thought when conceptualizing recipes while watching the episode was t
 
 First off, skip Oreos.  Oreos are the Captain America/Iron Man of snack cookies - everyone knows them, they constantly pop up in the _Times_ crossword, etc.  I needed something a few rungs down the MCU ladder, but for snacks.  And that felt like a perfect fit for another idea I've been tinkering with: homemade brownie brittle.
 
-<p align="center"><img src="/assets/images/doctor_mordrid/browniebrittle.jpeg" width="400"></p>
+<p align="center"><img src="/assets/images/doctor_mordrid/browniebrittle.jpg" width="400"></p>
 
 Have you had brownie brittle?  It's one of the snacks currently served on Southwest flights, which was the first place I had actually tried the stuff for myself.  It's a fantastic idea - the crispy edges of a brownie are often my favorite part, and this felt like it would involve waaaaaaay less clean-up than bringing out the Baker's Edge pan that's been sitting in the cupboard above my fridge along with all the other rarely-trotted-out kitchenware I have (my ramekins, my gravy separator, etc.  The special occasion stuff).
 
