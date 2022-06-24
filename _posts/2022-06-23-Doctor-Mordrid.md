@@ -5,7 +5,7 @@ title: "We’ve Got Cookie Sign: Doctor Mordrid (S13E5)"
 
 Alright, let's talk about _Doctor Mordrid_.
 
-[header]
+<p align="center"><img src="/assets/images/doctor_mordrid/header.jpg" width="800"></p>
 
 There's a bit of apocrypha about _Doctor Mordrid_ that's become fact - it was meant to be a _Doctor Strange_ movie, right were ripped away, and the producers changed just as much as they needed to make it Similar But Legally Distinct.  The post-show for this episode helped correct that - there's a lot of _Strange_ in this movie, but it was ultimately written as something very similar, but with its own whole flavor.
 
@@ -13,47 +13,51 @@ My initial thought when conceptualizing recipes while watching the episode was t
 
 First off, skip Oreos.  Oreos are the Captain America/Iron Man of snack cookies - everyone knows them, they constantly pop up in the _Times_ crossword, etc.  I needed something a few rungs down the MCU ladder, but for snacks.  And that felt like a perfect fit for another idea I've been tinkering with: homemade brownie brittle.
 
-[Sheila G's brownie brittle]
+<p align="center"><img src="/assets/images/gotta_be_munchies/browniebrittle.jpg" width="400"></p>
 
 Have you had brownie brittle?  It's one of the snacks currently served on Southwest flights, which was the first place I had actually tried the stuff for myself.  It's a fantastic idea - the crispy edges of a brownie are often my favorite part, and this felt like it would involve waaaaaaay less clean-up than bringing out the Baker's Edge pan that's been sitting in the cupboard above my fridge along with all the other rarely-trotted-out kitchenware I have (my ramekins, my gravy separator, etc.  The special occasion stuff).
 
-[baker's edge pan with cancel sign over it]
+<p align="center"><img src="/assets/images/gotta_be_munchies/edge_pan.png" width="400"></p>
 
 The advantage to making one's own brownie brittle is that you can adapt your favorite brownie recipe to it.  My current go-to is from Milk Street, and swirls tahini into the mix.  If you're not familiar, tahini is essentially the sesame version of peanut butter.  It pops up in mediterranean/middle eastern cooking a lot, and it's great at adding nutty flavor.  In this case, it's perfect for swirling into a batch of brownies, though we'll add it to all of the batter to make sure the flavor's all throughout the brittle.
 
 Adapting these to brittle form felt like a perfect fit for this movie - starting with what feels like a bit of a knock-off, but ultimately making something with its own whole flavor.  So with that in mind, here's ~~Sheila G's Brownie Brittle~~ **Doctor M's Chocolate-Tahini Rubble**:
 
-[rubble]
+<p align="center"><img src="/assets/images/gotta_be_munchies/brownie_rubble.jpeg" width="600"></p>
 
-[supplies]
 To start, gather up your supplies: 8 oz. of chopped-up chocolate (bittersweet or dark - this was from my stash of Tony's Chocoloney bars), flour, dutch-process cocoa, sugar, eggs, vanilla, butter, salt, and tahini.
 
-[bowl]
+<p align="center"><img src="/assets/images/gotta_be_munchies/1.jpeg" width="450"><img src="/assets/images/gotta_be_munchies/2.jpeg" width="450"></p>
+
 In a large bowl, whisk the eggs, sugar, salt, and vanilla for a minute, until everything's combined and slightly thickened.  Add in the tahini and keep whisking to combine.  With a spatula, fold in the flour and mix just until combined.  Set aside ½ cup of the batter in a separate bowl.
 
-[images]
+<p align="center"><img src="/assets/images/gotta_be_munchies/3.jpeg" width="450"><img src="/assets/images/gotta_be_munchies/4.jpeg" width="450"></p>
 
-Up next: chocolate. In a medium saucepan over medium heat, melt the butter (I've added some salt here since the recipe calls for salted and I only keep unsalted in the house). 
+Up next: chocolate. In a medium saucepan over medium heat, melt the butter (I've added some salt here since the recipe calls for salted and I only keep unsalted in the house).
+
+<p align="center"><img src="/assets/images/gotta_be_munchies/5.jpeg" width="400"><img src="/assets/images/gotta_be_munchies/6.jpeg" width="400"><img src="/assets/images/gotta_be_munchies/7.jpeg" width="400"></p>
 
 Remove from the heat and add the chopped chocolate and cocoa powder, whisking until smooth.  Add this into the larger part of the tahini mixture and mix until everything is combined.
 
-[photos]
+<p align="center"><img src="/assets/images/gotta_be_munchies/8.jpeg" width="400"><img src="/assets/images/gotta_be_munchies/9.jpeg" width="400"><img src="/assets/images/gotta_be_munchies/10.jpeg" width="400"></p>
 
 Since we're making this into a brittle, instead of the standard 9x9 baking pan, we're going to spread this out as thinly as possible onto a cookie sheet.  Line that sheet with foil, spray it with a layer of cooking spray (or butter it), then pour out the chocolate part of the batter and use an offset spatula to spread it out as thinly as you can get it to go to the edges.
 
-[photos]
+<p align="center"><img src="/assets/images/gotta_be_munchies/11.jpeg" width="400"><img src="/assets/images/gotta_be_munchies/12.jpeg" width="400"></p>
 
 Now for the swirling.  Take a spoon and the remaining chocolate-free tahini mixture and dollop it over the spread-out chocolate batter, letting the thickness of the mixture help do a sort of Jackson Pollock thing on top of your canvas.  
 
-Taking that offset spatula again (Offset Spatula Hive, this is the recipe for you), use the tip to gently swirl the two batters together, dragging it lightly along the top until everything's nicely swirled together without completely becoming one homogenous mass.
+Taking that offset spatula again (Offset Spatula Hive, this is the recipe for you), use the tip to gently swirl the two batters together, dragging it lightly along the top until everything's nicely swirled together without completely becoming one homogenous mass.  If you want to add a little extra pizzazz (and who doesn't love a little extra pizzazz?), sprinkle some flaky sea salt (like Maldon, not Morton) on top:
 
-[photos]
+<p align="center"><img src="/assets/images/gotta_be_munchies/13.jpeg" width="600"></p>
 
 This bakes at 350 for 25-30 minutes and should be firm to the touch when it comes out of the oven.  The center and areas where the batter was thicker may be a little more risen, but this will continue hardening as it cools.  If you want some parts to be a little softer, aim towards the 25 minute side of things.
 
-[photos]
+<p align="center"><img src="/assets/images/gotta_be_munchies/14.jpeg" width="450"><img src="/assets/images/gotta_be_munchies/15.jpeg" width="450"></p>
 
 When it comes out of the oven, take a pizza cutter and do some initial diagonal scoring to break things into smaller pieces of brittle.  Once this has cooled on a wire rack, you can break each piece down further as you put it in a storage container.
+
+<p align="center"><img src="/assets/images/gotta_be_munchies/brownie_rubble.jpeg" width="600"></p>
 
 Next time: Joel's back!  for..._Demon Squad_?
 
