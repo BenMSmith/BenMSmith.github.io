@@ -11,7 +11,7 @@ There's a bit of apocrypha about _Doctor Mordrid_ that's become fact - it was me
 
 My initial thought when conceptualizing recipes while watching the episode was to do a knock-off of something obvious, like an Oreo, tinkering with it _just_ enough to make it Very Similar But Legally Distinct.  But that post-show interview got me thinking on what else I could do to be a little more original.
 
-First off, skip Oreos.  Oreos are the Captain America/Iron Man of snack cookies - everyone knows them, they constantly pop up in the _Times_ crossword, etc.  I needed something a few rungs down the MCU ladder, but for snacks.  And that felt like a perfect fit for another idea I've been tinkering with: homemade brownie brittle.
+First off, skip Oreos.  Oreos are the Captain America/Iron Man of snack cookies - everyone knows them, they constantly pop up in the _Times_ crossword, etc.  I needed something a few rungs down the MCU ladder, but for snacks.  You know, the Doctor Strange.  Or the Ant-Man.  And that felt like a perfect fit for another idea I've been tinkering with: homemade brownie brittle.
 
 <p align="center"><img src="/assets/images/doctor_mordrid/browniebrittle.jpg" width="400"></p>
 
