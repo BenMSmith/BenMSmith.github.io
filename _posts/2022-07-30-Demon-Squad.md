@@ -21,7 +21,7 @@ So a super conceptual, deconstructed arnold palmer cake was out of the question.
 
 [Texas Sheet Cake](https://www.thepioneerwoman.com/food-cooking/recipes/a11901/best-chocolate-sheet-cake-recipe/) is _typically_ a chocolate cake where the batter is assembled on the stovetop and baked in the oven.  While it starts to cool, you whip up an icing that goes onto the warm cake and forms a final layer of goodness on top of the cake, typically accented with toasted pecans.  Taking this idea and switching it up with an iced-tea flavored cake, a lemon-y icing, and candied lemon slices on top, and you've got something fit for celebrating this episode.
 
-<p align="center"><img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="600"></p>
+<p align="center"><img src="/assets/images/demon_squad/19.jpeg" width="500"> <img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="500"></p>
 
 This recipe is all about _timing_ - you can make the candied lemon slices beforehand if you'd like, but the cake and icing need to be made at once, since part of Texas Sheet Cake's magic is what the warm cake and warm icing create together as they cool.  Mise-en-place is important here.
 
@@ -70,7 +70,7 @@ After the cake has cooled for 20 minutes, spread the warm icing over the cake.  
 
 After a few minutes of further cooling (so that the icing's a little set, but still sticky), top with your lemon slices.  Let cool completely on a wire rack before slicing.
 
-<p align="center"><img src="/assets/images/demon_squad/19.jpeg" width="600"><img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="600"></p>
+<p align="center"><img src="/assets/images/demon_squad/19.jpeg" width="500"> <img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="500"></p>
 
 And there we have it! The icing is a little sweeter than I tend to go with my baking, but the lemon juice added at the end, and the candied lemon on top (which you can eat, in its entirety, peel and all) adds the perfect bite of sourness to balance out the cake.
 
