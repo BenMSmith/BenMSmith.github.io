@@ -9,13 +9,17 @@ Sometimes, it's all about first thought, best thought.  Especially when the movi
 
 It's not that I didn't like the episode (this season has been uniformly great), but I've found that there's something _different_ about how we make "bad" movies now that plays differently than something with 20 years distance on it.  I had the same trouble with _Atlantic Rim_ last season.  Plus, this movie felt scrappy and delightful in what it was attempting to do with its budget and scope - it had _heart_, dang it!
 
-Still, a plan to make a baked good for each episode of this season is a plan.  A movie title like _Demon Squad_ suggests something sweet and spicy, but that's already ground I covered in a Mexican Hot Chocolate sort of way for [Santo and the Treasure of Dracula](/2022/03/31/weve-got-cookie-sign-santo-in-the-treasure-of-dracula-s13e1/).  Something _else_ that stuck out to me this episode that got my baking wheels spinning in the same way the timeshare sketch did in [_Robot Wars_](/2022/04/27/Robot-Wars/) was the tossed off Arnold Palmer joke during the intro that kicked off with Emily and finished with Joel.  Iced tea and lemonade felt like something that would be particularly fresh during these dog days of summer.
+Still, a plan to make a baked good for each episode of this season is a plan.  
 
-Given that this episode was also celebrating Joel's return to the Satellite of Love, a cake felt properly celebratory.  I've actually got a Arnold Palmer Cake recipe from Milk Bar's _All About Cake_, but it's very intense and felt like more of a project than I wanted to deal with in the middle of a very hot summer.  Plus? The cakes I enjoy baking are more of the one-bowl snacking cake sort of a deal.  It's the sort of thing that's kept me from applying from the various American versions of _Bake-Off_ over the years -- the telegenic sort of bakes that make for good TV only kind of overlap with the things I enjoy baking most.
+A movie title like _Demon Squad_ suggests something sweet and spicy, but that's already ground I covered in a Mexican Hot Chocolate sort of way for [Santo and the Treasure of Dracula](/2022/03/31/weve-got-cookie-sign-santo-in-the-treasure-of-dracula-s13e1/).  Something _else_ that stuck out to me this episode that got my baking wheels spinning in the same way the timeshare sketch did in [_Robot Wars_](/2022/04/27/Robot-Wars/) was the tossed off Arnold Palmer joke during the intro that kicked off with Emily and finished with Joel.  Iced tea and lemonade felt like something that would be particularly fresh during these dog days of summer.
+
+Given that this episode was also celebrating Joel's return to the Satellite of Love, a cake felt properly celebratory.  I've actually got a Arnold Palmer Cake recipe from Milk Bar's _All About Cake_, but it's very intense and felt like more of a project than I wanted to deal with in the middle of a very hot summer.  
+
+Plus? The cakes I enjoy baking are more of the one-bowl snacking cake sort of a deal.  It's the sort of thing that's kept me from applying from the various American versions of _Bake-Off_ over the years -- the telegenic sort of bakes that make for good TV only kind of overlap with the things I enjoy baking most.
 
 So a super conceptual, deconstructed arnold palmer cake was out of the question.  This is a perfect time for Texas Sheet Cake as an application.
 
-Texas Sheet Cake is _typically_ a chocolate cake where the batter is assembled on the stovetop and baked in the oven.  While it starts to cool, you whip up an icing that goes onto the warm cake and forms a final layer of goodness on top of the cake, typically accented with toasted pecans.  Taking this idea and switching it up with an iced-tea flavored cake, a lemon-y icing, and candied lemon slices on top, and you've got something fit for celebrating this episode.
+[Texas Sheet Cake](https://www.thepioneerwoman.com/food-cooking/recipes/a11901/best-chocolate-sheet-cake-recipe/) is _typically_ a chocolate cake where the batter is assembled on the stovetop and baked in the oven.  While it starts to cool, you whip up an icing that goes onto the warm cake and forms a final layer of goodness on top of the cake, typically accented with toasted pecans.  Taking this idea and switching it up with an iced-tea flavored cake, a lemon-y icing, and candied lemon slices on top, and you've got something fit for celebrating this episode.
 
 <p align="center"><img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="600"></p>
 
@@ -60,7 +64,7 @@ With that done, combine the butter and milk in a saucepan. Heat this over medium
 
 Gradually add the powdered sugar bit by bit, whisking until it reaches a good consistency for spreading.  Add the lemon juice and keep stirring (you want to add it now so that the milk doesn't otherwise curdle) until finally combined and spreadable.  Turn off the heat and keep this warm, stirring every few minutes while you wait for your timer for the cake cooling to go off.
 
-<p align="center"><img src="/assets/images/demon_squad/16.jpeg" width="400"><img src="/assets/images/demon_squad/17.jpeg" width="400"><img src="/assets/images/demon_squad/18.jpeg" width="400"></p>
+<p align="center"><img src="/assets/images/demon_squad/20.jpeg" width="300"><img src="/assets/images/demon_squad/16.jpeg" width="300"><img src="/assets/images/demon_squad/17.jpeg" width="300"><img src="/assets/images/demon_squad/18.jpeg" width="300"></p>
 
 After the cake has cooled for 20 minutes, spread the warm icing over the cake.  This is a perfect spot to use an offset spatula to get everything all the way to the edges. 
 
@@ -70,7 +74,7 @@ After a few minutes of further cooling (so that the icing's a little set, but st
 
 And there we have it!
 
-Next time: I'm already behind schedule on _Gamera vs. Jiger_
+Next time: I'm already behind schedule on _Gamera vs. Jiger_!
 
 ----
 
