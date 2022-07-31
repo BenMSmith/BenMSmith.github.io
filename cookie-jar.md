@@ -20,3 +20,4 @@ This was a project to make a cookie/other dessert for each episode of MST3k Seas
 - *Beyond Atlantis* (S13E3): [Cardamom Pearls](/2022/05/26/Beyond-Atlantis/)
 - *Munchie* (S13E4): [Gotta Be Munchies!](/2022/06/10/Munchie/)
 - *Doctor Mordrid* (S13E5): [Doctor M's Chocolate-Tahini Rubble](/2022/06/23/Doctor-Mordrid/)
+- *Demon Squad* (S13E6): [Arnold Palmer Cake](/2022/07/30/Demon-Squad)
