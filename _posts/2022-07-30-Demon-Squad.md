@@ -72,7 +72,7 @@ After a few minutes of further cooling (so that the icing's a little set, but st
 
 <p align="center"><img src="/assets/images/demon_squad/19.jpeg" width="600"><img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="600"></p>
 
-And there we have it!
+And there we have it! The icing is a little sweeter than I tend to go with my baking, but the lemon juice added at the end, and the candied lemon on top (which you can eat, in its entirety, peel and all) adds the perfect bite of sourness to balance out the cake.
 
 Next time: I'm already behind schedule on _Gamera vs. Jiger_!
 
