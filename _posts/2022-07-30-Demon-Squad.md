@@ -5,7 +5,7 @@ title: "We’ve Got Cookie Sign: Demon Squad (S13E6)"
 
 Sometimes, it's all about first thought, best thought.  Especially when the movie isn't your favorite kind of MST3k movie.
 
-<p align="center"><img src="/assets/images/doctor_mordrid/header.png" width="800"></p>
+<p align="center"><img src="/assets/images/demon_squad/header.png" width="800"></p>
 
 It's not that I didn't like the episode (this season has been uniformly great), but I've found that there's something _different_ about how we make "bad" movies now that plays differently than something with 20 years distance on it.  I had the same trouble with _Atlantic Rim_ last season.  Plus, this movie felt scrappy and delightful in what it was attempting to do with its budget and scope - it had _heart_, dang it!
 
@@ -17,26 +17,26 @@ So a super conceptual, deconstructed arnold palmer cake was out of the question.
 
 Texas Sheet Cake is _typically_ a chocolate cake where the batter is assembled on the stovetop and baked in the oven.  While it starts to cool, you whip up an icing that goes onto the warm cake and forms a final layer of goodness on top of the cake, typically accented with toasted pecans.  Taking this idea and switching it up with an iced-tea flavored cake, a lemon-y icing, and candied lemon slices on top, and you've got something fit for celebrating this episode.
 
-[picture of a slice of sheet cake]
+<p align="center"><img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="600"></p>
 
 This recipe is all about _timing_ - you can make the candied lemon slices beforehand if you'd like, but the cake and icing need to be made at once, since part of Texas Sheet Cake's magic is what the warm cake and warm icing create together as they cool.  Mise-en-place is important here.
 
-[Mise en place]
+<p align="center"><img src="/assets/images/demon_squad/1.jpeg" width="400"></p>
 
 Let's start with the lemons, since those need to sit while the rest of things come together (or longer, if you really want them to get all crystallized with sugar as they cool).
 
-[lemon montage]
+<p align="center"><img src="/assets/images/demon_squad/2.jpeg" width="400"><img src="/assets/images/demon_squad/3.jpeg" width="400"><img src="/assets/images/demon_squad/4.jpeg" width="400"></p>
 Two lemons get cut into ⅛-inch-thick rounds, discarding the seeds as you go.  Get these as thin as you can, but don't be too worried about getting these exactly that thin.  If you really want to, you can use a mandoline for this step, but I didn't feel like getting out my cutproof gloves and just eyeballed it with a serrated knife.
 
 In a large skillet over medium heat, stir together the sugar, lemon juice, and water until the sugar is dissolved. Add the lemon slices, and simmer gently, keeping slices in a single layer and turning occasionally. These should cook for 14 to 16 minutes or until slightly translucent and rinds are softened. 
 
 Once that's done, remove the pan from heat and place the slices in a single layer on wax paper or parchment paper on a cooling rack using tongs.  Let these cool while you start the cake.
 
-[leftover syrup]
+<p align="center"><img src="/assets/images/demon_squad/5.jpeg" width="400"></p>
 
 Don't let the lemon syrup you made go to waste - save this and mix it with seltzer for a fizzy lemonade (or as Australians call it, "lemonade"), or use it as a mixer with cocktails wherever you'd otherwise use simple syrup.
 
-[cake montage]
+<p align="center"><img src="/assets/images/demon_squad/6.jpeg" width="400"><img src="/assets/images/demon_squad/7.jpeg" width="400"><img src="/assets/images/demon_squad/8.jpeg" width="400"></p>
 
 Preheat the oven to 350F and spray/parchment paper a 13x18" sheet pan.
 
@@ -44,29 +44,29 @@ Since this is a tea-flavored cake, we need some strong tea.  Take 1 cup of water
 
 In a large bowl, combine 2 cups of sugar, 2 cups of flour, 2 eggs you've already beaten, ½ cup sour cream, 1 teaspoon baking soda, 1 teaspoon salt, and 1 Tablespoon of lemon juice.  Give this a light mix if you'd like, but this can largely hang out while you get the tea ready.
 
-[tea time montage]
+<p align="center"><img src="/assets/images/demon_squad/9.jpeg" width="400"><img src="/assets/images/demon_squad/10.jpeg" width="400"><img src="/assets/images/demon_squad/11.jpeg" width="400"></p>
 
 Take out the teabags (carefully wringing them out as you do so) and add 2 sticks of butter.  Stick this over medium heat just until the butter is melted.  Add this tea mixture to the rest of the cake ingredients and whisk until everything is _just_ combined.  Pour this into the sheet pan, place this in the oven, and bake for 17-20 minutes.
 
-[icing supplies]
+<p align="center"><img src="/assets/images/demon_squad/12.jpeg" width="400"></p>
 
 This is a great time to assemble all of the supplies for the icing so that these are ready to go once the cake is baked.  Once the cake comes out of the oven, time gets critical. Have a stick of butter, ⅓ cup milk, lemon extract, and 3 cups of powdered sugar standing by and ready to go.
 
-[lemons and icing montage]
+<p align="center"><img src="/assets/images/demon_squad/13.jpeg" width="400"><img src="/assets/images/demon_squad/14.jpeg" width="400"><img src="/assets/images/demon_squad/15.jpeg" width="400"></p>
 
 When the cake comes out of the oven, set a time for 20 minutes to let it cool.  You're going to want at least 12-15 of those minutes to assemble the icing, but now's also a good time to go over to your cooling candied lemon slices, cut each of them in half, and dust those with a little bit of granulated sugar so that they've got some texture.
 
 With that done, combine the butter and milk in a saucepan. Heat this over medium heat until the butter is melted and the mixture _just_ starts to boil. Remove from heat and stir in the lemon extract.
 
-Gradually add the powdered sugar bit by bit, whisking until it reaches a good consistency for spreading.  Turn off the heat and keep this warm, stirring every few minutes while you wait for your timer for the cake cooling to go off.
+Gradually add the powdered sugar bit by bit, whisking until it reaches a good consistency for spreading.  Add the lemon juice and keep stirring (you want to add it now so that the milk doesn't otherwise curdle) until finally combined and spreadable.  Turn off the heat and keep this warm, stirring every few minutes while you wait for your timer for the cake cooling to go off.
 
-[icing time montage]
+<p align="center"><img src="/assets/images/demon_squad/16.jpeg" width="400"><img src="/assets/images/demon_squad/17.jpeg" width="400"><img src="/assets/images/demon_squad/18.jpeg" width="400"></p>
 
 After the cake has cooled for 20 minutes, spread the warm icing over the cake.  This is a perfect spot to use an offset spatula to get everything all the way to the edges. 
 
 After a few minutes of further cooling (so that the icing's a little set, but still sticky), top with your lemon slices.  Let cool completely on a wire rack before slicing.
 
-[final photo]
+<p align="center"><img src="/assets/images/demon_squad/19.jpeg" width="600"><img src="/assets/images/demon_squad/arnold_palmer_sheet_cake.jpeg" width="600"></p>
 
 And there we have it!
 
@@ -93,14 +93,15 @@ adapted from [_Cooking with Carlee_](https://cookingwithcarlee.com/arnold-palmer
 - 2 cups flour (240 grams)
 - 2 eggs, beaten
 - ½ cup sour cream (114 grams)
-- 1 teaspoon baking soda
-- 1 teaspoon salt
-- 1 Tablespoon lemon juice
+- 1 tsp baking soda
+- 1 tsp salt
+- 1 Tbsp lemon juice
 
 #### Icing
 - ½ cup butter (1 stick)
 - ⅓ cup milk
 - 1 tsp lemon extract
+- 1 Tbsp lemon juice
 - 3 cups powdered sugar (341 grams)
 
 ### Instructions
@@ -116,5 +117,5 @@ adapted from [_Cooking with Carlee_](https://cookingwithcarlee.com/arnold-palmer
 9. Cool on a wire rack for 20 minutes, during which you should begin making the icing.
 10. Cut your lemon slices in half and dust lightly with granulated sugar.
 11. Combine the butter and milk in a saucepan. Heat over medium heat until the butter is melted and the mixtures just starts to boil. Remove from heat and stir in the lemon extract.
-12. Gradually add the powdered sugar, whisking until it reaches a good consistency for spreading.
+12. Gradually add the powdered sugar, whisking until it reaches a good consistency for spreading.  Add the lemon juice and continue to whisk until fully combined.
 13. After the cake has cooled for 20 minutes, spread the warm icing over the cake. After a few minutes, top with your lemon slices.  Let cool completely on a wire rack before slicing.
