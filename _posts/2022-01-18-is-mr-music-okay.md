@@ -68,7 +68,7 @@ I *still* feel very proud about this a year and a half later. Go build your own 
 ## Seven Months Later: Long Term Storage 
 (added August 2022)
 
-<p align="center"><img src="/wp-content/uploads/2020/11/IMG_6518.jpeg"></p>
+<p align="center"><img src="/wp-content/uploads/2020/11/IMG_6518.jpeg" width="500"></p>
 
 After managing to find the two super-small xylophone pieces that technically belong at the bottom of the jacket, I checked the Mr. Music jacket and found that some of the larger xylophone bars had started to fall off _again_.  Most of them were firmly in place, but I think that while built to hold up to five pounds, the structural integrity of the sticky back of the velcro is not meant to withstand _constant_ weight from the xylophone pieces.
 
