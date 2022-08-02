@@ -64,3 +64,12 @@ If we had needed it, I was prepared to build another one of these jackets for ou
 - Find some stripe-y pants? I was sitting down for most team interactions so honestly I could have been wearing sweatpants if I wanted.
 
 I *still* feel very proud about this a year and a half later. Go build your own (and shout me out on social media if you do)
+
+## Seven Months Later: Long Term Storage 
+(added August 2022)
+
+<p align="center"><img src="/wp-content/uploads/2020/11/IMG_6518.jpeg"></p>
+
+After managing to find the two super-small xylophone pieces that technically belong at the bottom of the jacket, I checked the Mr. Music jacket and found that some of the larger xylophone bars had started to fall off _again_.  Most of them were firmly in place, but I think that while built to hold up to five pounds, the structural integrity of the sticky back of the velcro is not meant to withstand _constant_ weight from the xylophone pieces.
+
+To fix this/make this something that can hold up over a long period of time, I've replaced the velcro dots/squares with full velcro tape backing for each piece, and I'm now storing the xylophone pieces in their own little bag (see photo above) to be applied before the jacket gets worn at a Con or whatever.  I've got a goal of wearing this (and a few other obscure-ish cosplay things) at something like DragonCon next year.
