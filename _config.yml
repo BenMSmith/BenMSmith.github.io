@@ -33,7 +33,7 @@ url: https://www.goodatinter.net
 author: BenMSmith
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
-logo: /assets/images/Ben Covatar.png
+logo: /assets/images/covatar 2022 yellow.png
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-227476272-1
@@ -47,7 +47,7 @@ footer-links:
   github:
   instagram: bsideboston
   linkedin:
-  rss: # just type anything here for a working RSS icon
+  rss: iconplz # just type anything here for a working RSS icon
   twitter: BenMSmith
 
 plugins:
