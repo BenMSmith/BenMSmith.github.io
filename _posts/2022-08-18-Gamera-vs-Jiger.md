@@ -15,7 +15,7 @@ So, it's been ridiculously hot in the Northeast up until a few days ago, which m
 
 Flour is a chain of (fantastic) local bakeries here in Boston, and one of my favorites to pair with a cup of coffee is their double-chocolate cookie, which they've lately started making with rye flour (yay, whole grains!  these are now slightly healthier!) which adds some extra nuttiness.  Those typically come baked with walnuts, so it wasn't too hard to swap those out for the traditional pecans of a turtle-flavored anything, and the saltiness of a miso caramel felt like it would add a nice balance for all the fudgy richness the cookies already had going on.
 
-<p align="center"><img src="/assets/images/demon_squad/19.jpeg" width="500"> <img src="/assets/images/gamera_jiger/turtle_meat.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/gamera_jiger/turtle_meat.jpeg" width="500"></p>
 
 <p align="center"><img src="/assets/images/gamera_jiger/1.jpeg" width="400"></p>
 
