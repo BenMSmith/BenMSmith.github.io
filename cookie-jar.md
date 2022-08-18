@@ -21,3 +21,4 @@ This was a project to make a cookie/other dessert for each episode of MST3k Seas
 - *Munchie* (S13E4): [Gotta Be Munchies!](/2022/06/10/Munchie/)
 - *Doctor Mordrid* (S13E5): [Doctor M's Chocolate-Tahini Rubble](/2022/06/23/Doctor-Mordrid/)
 - *Demon Squad* (S13E6): [Arnold Palmer Cake](/2022/07/30/Demon-Squad)
+- *Gamera vs. Jiger* (S13E7): [Double-Chocolate Miso Caramel Turtle Cookies](/2022/08/18/Gamera-vs-Jiger)
