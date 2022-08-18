@@ -67,18 +67,28 @@ Remove the cookies from the oven and let them cool on the baking sheet on a wire
 
 <p align="center"><img src="/assets/images/gamera_jiger/19.jpeg" width="400"></p>
 
+Caramel, much like the glaze for last month's [Texas Sheet Cake](/2022/07/30/Demon-Squad), is all about timing and being prepared.  
+
 <p align="center"><img src="/assets/images/gamera_jiger/20.jpeg" width="400"><img src="/assets/images/gamera_jiger/21.jpeg" width="400"><img src="/assets/images/gamera_jiger/22.jpeg" width="400"></p>
+
+We need white miso for this (which should be available at your local asian market for a few bucks).  I had 2 Tbsp of the stuff and ½ cup of cream ready to go on the sidelines while I mixed ¼ cup of water and ¾ cup granulated sugar in a saucepan.  After an initial mix, you need to just let the sugar melt, swirling the pan occasionally as the mixture goes from clear-ish to an amber-y brown, like so:
 
 <p align="center"><img src="/assets/images/gamera_jiger/23.jpeg" width="300"><img src="/assets/images/gamera_jiger/24.jpeg" width="300"><img src="/assets/images/gamera_jiger/25.jpeg" width="300"><img src="/assets/images/gamera_jiger/26.jpeg" width="300"></p>
 
+Once it's at this stage, take it off the heat, pour in the cream, and whisk until combined, putting it back over low heat if everything seizes up.  If you want this to really thicken up (I wanted a looser caramel for the drizzle, but I'd maybe go thicker next time I make these), add a couple tablespoons of butter once it goes amber and whisk those in first before adding the cream off-heat.
+
+Once that's set, also whisk in your miso until everything is smooth.  I failed to photograph any of this because my focus needed to be on, uh, _actually whisking this_.
+
 <p align="center"><img src="/assets/images/gamera_jiger/27.jpeg" width="400"></p>
+
+Spatula this into a small container and let sit for 15-20 minutes to further thicken as it cools.  Once that's done, drizzle with a small spoon over your cookies.  They kind of look like Gamera Shells!
 
 <p align="center"><img src="/assets/images/gamera_jiger/turtle_meat.jpeg" width="400"><img src="/assets/images/gamera_jiger/turtle_closeup.jpeg" width="400"></p>
 
 ----
 
 ## Double-Chocolate Miso Caramel Turtle Cookies
-
+_adapted from Flour bakery's Double-Chocolate Rye Cookies and [Food52's Miso Caramel Sauce](https://food52.com/recipes/18618-miso-caramel)_
 
 ### Ingredients
 
@@ -95,7 +105,10 @@ Remove the cookies from the oven and let them cool on the baking sheet on a wire
 - ½ teaspoon kosher salt
 
 #### Miso Caramel Drizzle
--
+- ¾ cup granulated sugar
+- ¼ cup water
+- ½ cup heavy cream
+- 2 tablespoons white miso
 
 ### Instructions
 1. Preheat the oven to 350°F and position a rack in the center of the oven. Place the pecans on a baking sheet and toast for 8 to 10 minutes, until they start to smell fragrant and are lightly golden brown when you break one in half. Remove them from the oven and let cool. Roughly chop them and set aside.
@@ -106,4 +119,6 @@ Remove the cookies from the oven and let them cool on the baking sheet on a wire
 6. For best results, scrape the dough into an airtight container and let it rest in the refrigerator for at least 3 to 4 hours or up to overnight before baking. (The unbaked dough can be stored in the refrigerator for up to 1 week.)
 7. Preheat the oven to 350°F and position a rack in the center of the oven. Line a baking sheet with parchment paper.
 8. Drop the dough in ¼-cup scoops onto the prepared baking sheet, spacing them about 2 inches apart. Bake for 12 to 14 minutes, rotating the baking sheet midway through the baking time, until the cookies are just starting to crack on the edges and the centers are soft but not liquidy when you press them.
-9. Remove the cookies from the oven and let them cool on the baking sheet on a wire rack for 5 to 10 minutes, then transfer them to the rack and let cool completely.
+9. Remove the cookies from the oven and let them cool on the baking sheet on a wire rack for 5 to 10 minutes, then transfer them to the rack and let cool completely while you make the caramel.
+10. For the caramel, in a heavy saucepan set over medium-high heat, stir together sugar and water. Without additional stirring, bring mixture to a boil. Use a wet pastry brush to wash down any sugar crystals that form on the sides of the pan. When sugar becomes a deep golden brown and wisps of smoke just start to form, remove pan from heat.
+Once off the heat, carefully pour in the cream, which will cause the caramel to bubble. Stir to combine. If the caramel seizes up and hardens with the addition of the cold cream, then put the pan back over low heat and stir until the caramel is liquid again. Whisk in the miso. Allow to cool slightly before pouring into a lidded container, and let sit for 15-20 minutes to thicken further before drizzling over cookies.
