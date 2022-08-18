@@ -63,9 +63,10 @@ I'm a weirdo who weighed out my dough when I loaded it in the storage container 
 
 Bake for 12 to 14 minutes, rotating the baking sheet midway through the baking time, until the cookies are just starting to crack on the edges and the centers are soft but not liquidy when you press them.
 
+<p align="center"><img src="/assets/images/gamera_jiger/19.jpeg" width="400"></p>
+
 Remove the cookies from the oven and let them cool on the baking sheet on a wire rack for 5 to 10 minutes, then transfer them to the rack and let cool completely while you make the caramel to drizzle on top.
 
-<p align="center"><img src="/assets/images/gamera_jiger/19.jpeg" width="400"></p>
 
 Caramel, much like the glaze for last month's [Texas Sheet Cake](/2022/07/30/Demon-Squad), is all about timing and being prepared.  
 
@@ -121,4 +122,4 @@ _adapted from Flour bakery's Double-Chocolate Rye Cookies and [Food52's Miso Car
 8. Drop the dough in ¼-cup scoops onto the prepared baking sheet, spacing them about 2 inches apart. Bake for 12 to 14 minutes, rotating the baking sheet midway through the baking time, until the cookies are just starting to crack on the edges and the centers are soft but not liquidy when you press them.
 9. Remove the cookies from the oven and let them cool on the baking sheet on a wire rack for 5 to 10 minutes, then transfer them to the rack and let cool completely while you make the caramel.
 10. For the caramel, in a heavy saucepan set over medium-high heat, stir together sugar and water. Without additional stirring, bring mixture to a boil. Use a wet pastry brush to wash down any sugar crystals that form on the sides of the pan. When sugar becomes a deep golden brown and wisps of smoke just start to form, remove pan from heat.
-Once off the heat, carefully pour in the cream, which will cause the caramel to bubble. Stir to combine. If the caramel seizes up and hardens with the addition of the cold cream, then put the pan back over low heat and stir until the caramel is liquid again. Whisk in the miso. Allow to cool slightly before pouring into a lidded container, and let sit for 15-20 minutes to thicken further before drizzling over cookies.
+11. Once off the heat, carefully pour in the cream, which will cause the caramel to bubble. Stir to combine. If the caramel seizes up and hardens with the addition of the cold cream, then put the pan back over low heat and stir until the caramel is liquid again. Whisk in the miso. Allow to cool slightly before pouring into a lidded container, and let sit for 15-20 minutes to thicken further before drizzling over cookies.
