@@ -9,7 +9,7 @@ Sometimes, things fall apart, like the initial plan of what you wanted to do for
 
 I've still _got_ that idea for a Gamera-inspired treat, it'll just have to happen another time.  On the plus side, my inability to not click spoiler tags meant that I had a great direction to go as a backup.  Thanks, GregC!
 
-<p align="center"><img src="/assets/images/gamera_jiger/gregc.png" width="400"></p>
+<p align="center"><img src="/assets/images/gamera_jiger/gregc.png" width="600"></p>
 
 So, it's been ridiculously hot in the Northeast up until a few days ago, which meant that even if I enjoyed candy-making (I don't - it's... _fussy_ ...in a way that doesn't work with how I like to bake), it was not the time to bring out the candy thermometer and make my already-warm kitchen even less pleasant to be in while working on a treat.  Luckily, I've had a local bakery's cookie I've been trying to work out for myself.
 
