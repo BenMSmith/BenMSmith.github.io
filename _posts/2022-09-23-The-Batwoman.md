@@ -13,7 +13,11 @@ Denmark was obvious: ~~sewing supplies~~ butter cookies
 
 <p align="center"><img src="/assets/images/the_batwoman/dansk_tin.jpeg" width="400"></p>
 
-Figuring out the latin half of these was trickier, until I remembered Alfajores.  They aren't explicitly Mexican (like our movie was), but they felt similar enough to a butter cookie, and making sandwich cookies with butter cookies and some cajeta (aka goat milk caramel) as a mexican version of the standard dulce de leche these are filled with felt like the perfect salute to this movie's transliteration of Batman into...whatever that was.
+Figuring out the latin half of these was trickier, until I remembered Alfajores.  
+
+<p align="center"><img src="/assets/images/the_batwoman/alfajores.jpeg" width="400"></p>
+
+They aren't explicitly Mexican (like our movie was), but they felt similar enough to a butter cookie, and making sandwich cookies with butter cookies and some cajeta (aka goat milk caramel) as a mexican version of the standard dulce de leche these are filled with felt like the perfect salute to this movie's transliteration of Batman into...whatever that was.
 
 <p align="center"><img src="/assets/images/the_batwoman/reptilicii.jpeg" width="400"></p>
 
