@@ -29,7 +29,7 @@ Unlike my last few cookies, these have a fairly small ingredient list. Typically
 
 Spring for the good stuff here - my local megamart had both Kerrygold (which is Irish) and Finlandia (which, as its name suggests, is Finnish) on special, but I went with Finlandia this time since it's closer to Denmark.
 
-<p align="center"><img src="/assets/images/the_batwoman/IRE-CPH.png" width="400"><img src="/assets/images/the_batwoman/HSK-CPH.png" width="400"><br><i>Good at Internet: Literally Doing The Math On This, For You</i></p>
+<p align="center"><img src="/assets/images/the_batwoman/IRE-CPH.png" width="600"><img src="/assets/images/the_batwoman/HSK-CPH.png" width="600"><br><i>Good at Internet: Literally Doing The Math On This, For You</i></p>
 
 Preheat your oven to 350 and line some baking sheets with parchment paper.
 
