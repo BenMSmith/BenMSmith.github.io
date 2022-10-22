@@ -14,11 +14,11 @@ text about AMS
 
 ## The Rijksmuseum
 
-### Clara
+#### Clara
 text about Clara/bugs
 
 {% include image-gallery.html folder="/assets/gallery/rijksmuseum-clara" %}
 
-### The Rest of the Rijks
+#### The Rest of the Rijks
 
 {% include image-gallery.html folder="/assets/gallery/rijksmuseum-main" %}
