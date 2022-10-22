@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Travles
+title: Travels
 permalink: /travels/
 ---
 
@@ -15,7 +15,7 @@ permalink: /travels/
 - 2018: Milwaukee, WI
 - 2019: Boulder, CO
 - 2021: Washington, DC
-- 2022: Nashville, TN
+- 2022: [Nashville, TN](/2022/07/25/asheville-to-nashville/)
 - 2023: Montreal, QB
 
 ## International Trips
@@ -25,5 +25,8 @@ permalink: /travels/
 - 2017: Rotterdam
 - 2019: Iceland Airwaves
 - 2021: Rotterdam
-- 2022: Reykjavik
+- 2022: [Reykjavik](/2022/03/20/Iceland-2022/)
 - 2022: [Rotterdam](/2022/10/14/Rotterdam/)/[Amsterdam](/2022/10/15/Amsterdam/)/[Den Haag](/2022/10/16/Den-Haag/)
+
+## Other Trips
+- June 2022: [Denver/Red Rocks](/2022/06/01/red-rocks/)
