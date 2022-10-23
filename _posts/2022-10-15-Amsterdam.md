@@ -4,11 +4,12 @@ title: "Amsterdam"
 ---
 
 ## Amsterdam
-text about AMS
 
 {% include image-gallery.html folder="/assets/gallery/amsterdam-day-trip/amsterdam-2022" %}
 
 ## Stedelijk
+
+The Stedelijk focuses on modern and contemporary art.  Not shown here: a platform that was showing the Eames' "Powers of Ten" (one of my favorite videos) on a loop, and the entirety of the basement exhibition, Anne Imhof's "Youth", which felt like a parody of bad contemporary art installations, but was an actual contemporary art installation. Oops.
 
 {% include image-gallery.html folder="/assets/gallery/amsterdam-day-trip/stedelijk" %}
 
