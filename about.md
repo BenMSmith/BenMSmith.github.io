@@ -22,3 +22,5 @@ I’m slightly too online, and I try to use to use those powers for good.  This 
 ### Contact me
 
 [bside.boston@gmail.com](mailto:bside.boston@gmail.com)
+
+<a rel="me" href="https://mastodon.cloud/@BenMSmith">Mastodon</a>
