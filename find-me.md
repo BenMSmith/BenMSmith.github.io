@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ben Smith
+title: Find Me Online
 permalink: /find-me/
 ---
 
