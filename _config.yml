@@ -50,6 +50,8 @@ footer-links:
   rss: iconplz # just type anything here for a working RSS icon
   twitter: BenMSmith
 
+incremental: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
