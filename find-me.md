@@ -20,9 +20,9 @@ Please invite me to guest on your podcast!  I like chatting about things (partic
 
 ## Social (?) Media
 
-- [Tumblr](https://thatbenmsmith.tumblr.com/)
+- [Tumblr](https://thatbenmsmith.tumblr.com/) is mostly where I re-blog stuff from other Tumblrs ATM.
 - Facebook and I have a complicated relationship right now and I'm trying to use it less
-- I'm on instagram at [bside.boston](https://www.instagram.com/bsideboston/), say hi and don't be weird.
+- I'm on instagram at [bsideboston](https://www.instagram.com/bsideboston/), say hi and don't be weird, it's mostly pictures of food and puzzles ATM.
 - Like many other elder millenials I have made a [Cohost](https://cohost.org/BenMSmith) but I don't know what I'm going to use that for yet.
 - I also joined Mastodon, where I'm @BenMSmith@mastodon.cloud.  See you there?
 
