@@ -18,13 +18,14 @@ That said, here's where to find me, when this platform ceases to exist:
 
 Please invite me to guest on your podcast!  I like chatting about things (particularly trivia, the Eurovision Song Contest, puzzles, Mystery Science Theater, and general pop culture/current events) and I have my own microphone.
 
-## Social (?) Media
+## We'll See What Sparks Joy ("Social" Media)
 
 - [Tumblr](https://thatbenmsmith.tumblr.com/) is mostly where I re-blog stuff from other Tumblrs ATM.
 - Facebook and I have a complicated relationship right now and I'm trying to use it less
 - I'm on instagram at [bsideboston](https://www.instagram.com/bsideboston/), say hi and don't be weird, it's mostly pictures of food and puzzles ATM.
 - Like many other elder millenials I have made a [Cohost](https://cohost.org/BenMSmith) but I don't know what I'm going to use that for yet.
 - I also joined Mastodon, where I'm @BenMSmith@mastodon.cloud.  See you there?
+- oops, I also joined Hive and Post, BenMSmith in both places.
 
 ## A newsletter?  In this economy?
 - If you're a substack kind of person, I have made [Semaphore](https://bsideboston.substack.com/) for occasional updates and also to ruin the other Ben Smith's SEO.
