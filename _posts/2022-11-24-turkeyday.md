@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We’ve Got ~~Cookie~~ Turkey Day Sign: The 2022 Surgically Enhanced Turkey Day Marathon (S13 Extra)"
+title: "We’ve Got C̶o̶o̶k̶i̶e̶ Turkey Day Sign: The 2022 Surgically Enhanced Turkey Day Marathon (S13 Extra)"
 ---
 
 This is basically an invention exchange?  Happy Turkey Day, all!
