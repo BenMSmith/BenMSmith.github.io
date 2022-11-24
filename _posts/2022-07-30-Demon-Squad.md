@@ -79,7 +79,7 @@ Next time: I'm already behind schedule on _Gamera vs. Jiger_!
 ----
 
 ## Arnold Palmer Cake
-adapted from [_Cooking with Carlee_](https://cookingwithcarlee.com/arnold-palmer-texas-sheet-cake/) and [_Southern Living_ magazine](https://www.southernliving.com/recipes/candied-lemon-slices)
+riffing on [_Cooking with Carlee_](https://cookingwithcarlee.com/arnold-palmer-texas-sheet-cake/) and [_Southern Living_ magazine](https://www.southernliving.com/recipes/candied-lemon-slices)
 
 ### Ingredients
 

@@ -89,7 +89,7 @@ Spatula this into a small container and let sit for 15-20 minutes to further thi
 ----
 
 ## Double-Chocolate Miso Caramel Turtle Cookies
-_adapted from Flour bakery's Double-Chocolate Rye Cookies and [Food52's Miso Caramel Sauce](https://food52.com/recipes/18618-miso-caramel)_
+_riffing on Flour bakery's Double-Chocolate Rye Cookies and [Food52's Miso Caramel Sauce](https://food52.com/recipes/18618-miso-caramel)_
 
 ### Ingredients
 

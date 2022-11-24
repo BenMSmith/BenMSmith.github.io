@@ -24,4 +24,6 @@ This was a project to make a cookie/other dessert for each episode of MST3k Seas
 - *Gamera vs. Jiger* (S13E7): [Double-Chocolate Miso Caramel Turtle Cookies](/2022/08/18/Gamera-vs-Jiger)
 - *The Batwoman* (S13E8): [Reptilicii](/2022/09/23/The-Batwoman)
 - *The Million Eyes of Su-Muru* (S13E9): [PBJ Streusel Bars](/2022/09/30/Sumuru)
-- *H.G. Wells' The Shape of Things to Come (S13 E10)
+- *H.G. Wells' The Shape of Things to Come* (S13 E10): [Extra Black Black-Bottom Peanut Butter Pie](/2022/10/18/hgwells)
+- *The Mask 3-D* (S13 E11): [Mask Krispie Treats](/2022/10/28/mask3d)
+- *The Bubble* (S13 E12): coming soon

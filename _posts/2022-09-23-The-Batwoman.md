@@ -74,7 +74,7 @@ And there we go.  Next time: _The Million Eyes of Su-Muru_
 ----
 
 ## Reptilicii
-_adapted from [Brown Eyed Baker](https://www.browneyedbaker.com/danish-butter-cookies/)_
+_riffing on [Brown Eyed Baker](https://www.browneyedbaker.com/danish-butter-cookies/)_
 
 Makes 18-22 cookies
 

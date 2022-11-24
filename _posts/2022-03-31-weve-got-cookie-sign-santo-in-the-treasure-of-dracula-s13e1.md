@@ -23,7 +23,7 @@ Up next: ***Robot Wars***. Til then, enjoy!
 
 ## Chocolate-Chipotle Luchador Shortbread
 
-inspired by the Ancho &amp; Chocolate Slice-and-Bakes in Jesse Szewczyk's Cookies: The New Classics
+_riffing on the Ancho &amp; Chocolate Slice-and-Bakes in Jesse Szewczyk's [Cookies: The New Classics](https://bookshop.org/books/cookies-the-new-classics-a-baking-book/9780593235669)_
 
 ## Ingredients
   

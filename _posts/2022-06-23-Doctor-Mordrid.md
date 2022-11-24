@@ -64,7 +64,7 @@ Next time: Joel's back!  for..._Demon Squad_?
 ----
 
 ## Doctor M.'s Chocolate-Tahini Rubble
-_adapted from Milk Street's [Tahini Swirl Brownies](https://www.177milkstreet.com/recipes/tahini-swirl-brownies)_
+_riffing on Milk Street's [Tahini Swirl Brownies](https://www.177milkstreet.com/recipes/tahini-swirl-brownies)_
 
 ### Ingredients
 
