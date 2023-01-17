@@ -32,7 +32,7 @@ It was very cool being a fly on the wall as the Introspection meta came to be (a
 
 As part of our writing process, Eric asked me to organize some kind of focused writing retreat for early June. With COVID still COVID-ing and Palindrome’s general widespread nature (and especially with an Australian contingent joining us from Ange Management that we wanted to accommodate as much as possible), that was organized virtually on our Discord.
 
-Pulling that together was a little more seat-of-the-pants than I maybe would have liked, but I think we were able to pull off lots of focused worktime, discussions about areas we wanted to build out more puzzle content (we’re VERY word-y people on Palindrome, so it was important to think about potential “swag” puzzles that would be physical items, “scrum” puzzles that could be multiplayer “teamwork time” style puzzles, and puzzles that pulled from STEM and other core curriculum topics at MIT. We also tried to take 3 of the answers we had pulled from our answer bank and tried to come up with concepts for these. Of these, I think only one actually emerged from its session into becoming a final puzzle in the Hunt, *[Kiki’s Delivery Service](https://www.bookspace.world/puzzle/kikis-delivery-service/)*.
+Pulling that together was a little more seat-of-the-pants than I maybe would have liked, but I think we were able to pull off lots of focused worktime, discussions about areas we wanted to build out more puzzle content (we’re VERY word-y people on Palindrome, so it was important to think about potential “swag” puzzles that would be physical items, “scrum” puzzles that could be multiplayer “teamwork time” style puzzles, and puzzles that pulled from STEM and other core curriculum topics at MIT. We also tried to take 3 of the answers we had pulled from our answer bank and tried to come up with concepts for these. Of these, I think only one actually emerged from its session into becoming a final puzzle in the Hunt, *[Kiki’s Delivery Service](https://puzzles.mit.edu/2022/puzzle/kikis-delivery-service/)*.
 
 ## Script Punch-Up
 
@@ -56,7 +56,7 @@ Since we needed to record all of our video parts separately, but have it look li
 
 For our live teams, we had 6 teams of 2-3 people set up as minister crews – 4 that were mostly on the east coast, one on the west coast, and one in Australia. Australia’s crew was a life-saver for the overnight shift pieces that was hitting the edge of what our west coast crew could cover. Hopefully, whether your team got either a Barker or a Rotch Brother, along with Dewey, Lewis, or Hayden, you had a good time. I know Justin Ladia and I got particularly *goofy* as Randy Rotch and Alexei.
 
-We had a fantastic crew of ministers both in the video and over the weekend, [as noted on the credits page](https://www.bookspace.world/credits/). Huge kudos to all of them for making it so that only a few teams missed getting a live interaction.
+We had a fantastic crew of ministers both in the video and over the weekend, [as noted on the credits page](https://puzzles.mit.edu/2022/credits/). Huge kudos to all of them for making it so that only a few teams missed getting a live interaction.
 
 ## Costumes &amp; Props
 
@@ -93,7 +93,7 @@ In hindsight, I would have advocated more strongly for us to start post-prod as 
 <p align="center"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-23-at-4.52.50-PM-1024x576.png"></p>
 I woke up Sunday morning at 8, saw that we had teams nearing the endgame, and got my ass over to campus to hang out in Hayden Library and be ready to welcome whatever team that was. Jen graciously walked Julia and I through the beats of the endgame scene approximately 7 billion times (my brain was **not** committing things to short-term memory) before I just typed them in my phone. Improv! Yes and! I did the thing.
 
-Fun fact: the hat I was literally wearing here is the logo of the [Beloit Sky Carp](https://www.milb.com/beloit/about/sky-carp-brand-story), the ONLY team [that changed mascots](https://onmilwaukee.com/articles/beloit-snappers-rebrand-sky-carp) in the process of post-prodding [Minor Details](https://www.bookspace.world/puzzle/minor-details/), necessitating a slight content change. I love the logo SO much, hence I got it on a hat.
+Fun fact: the hat I was literally wearing here is the logo of the [Beloit Sky Carp](https://www.milb.com/beloit/about/sky-carp-brand-story), the ONLY team [that changed mascots](https://onmilwaukee.com/articles/beloit-snappers-rebrand-sky-carp) in the process of post-prodding [Minor Details](https://puzzles.mit.edu/2022/puzzle/minor-details/), necessitating a slight content change. I love the logo SO much, hence I got it on a hat.
 
 ## One More Hat
 
