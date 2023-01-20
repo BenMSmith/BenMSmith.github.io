@@ -24,9 +24,9 @@ It was very cool being a fly on the wall as the Introspection meta came to be (a
 
 ## Writing &amp; Editing Puzzles
 
-[I wrote about the puzzles I wrote here.](http://www.benmsmith.com/blog/mystery-hunt-2022-stuff-i-wrote/)
+[I wrote about the puzzles I wrote here.](/2021/01/18/mystery-hunt-2022-stuff-i-wrote/)
 
-[I wrote about the puzzles I edited here.](http://www.benmsmith.com/blog/mystery-hunt-2022-puzzles-i-edited-loved/)
+[I wrote about the puzzles I edited here.](/2021/01/22/mystery-hunt-2022-puzzles-i-edited-loved/)
 
 ## Virtual Retreat Coordinator
 
