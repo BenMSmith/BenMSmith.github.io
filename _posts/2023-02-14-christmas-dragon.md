@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "We’ve Got Cookie Sign: The Bubble & The Christmas Dragon"
+title: "We’ve Got Cookie Sign: The Bubble & The Christmas Dragon (S13E12 & S13E13"
 ---
 
 Folks, it's been a _minute_, hasn't it?  Between the real holidays, [Mystery Hunt](/01/20/mystery-hunt-2023/), and everything else, I've had the last two cookies done for about a month.  You're getting the recipe for one of them. More on that later
 
-<p align="center"><img src="/assets/images/bubble_christmas_dragon/bubbleheader.png" width="600"><img src="/assets/images/bubble_christmas_dragon/dragonheader.png" width="600"></p>
+<p align="center"><img src="/assets/images/bubble_christmas_dragon/bubble_header.png" width="600"><img src="/assets/images/bubble_christmas_dragon/dragon_header.png" width="600"></p>
 
 The close-out of this season was delightful, and having all three hosts together was exactly what I wanted this to close out on. As for _The Bubble_: well, that was certainly a movie that was filmed! With a camera! I'm not sure it's truly the _worst_ movie the series has ever aired, as this was hyped up to be, but things so rarely are.
 
