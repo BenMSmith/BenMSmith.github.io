@@ -11,7 +11,7 @@ The close-out of this season was delightful, and having all three hosts together
 
 The whole liminal space vibe of the movie felt like a blank check to dig into the archives of recipes I've saved over the years and dig out something out there to match the literally-anything-can-happen-does-this-movie-have-logical-rules thing going on. And somehow, despite every step of the process feeling wrong, was how I decided to attempt what I'll call **This Movie Was The Wurst** cookies.
 
-Yes, wurst. Like hot dogs?  I had this corndog cookie recipe from ages ago that intrigued me, and I had a pun, and so I set out prepping my tools:
+Yes, wurst. Like hot dogs?  I had [this corndog cookie recipe](https://www.wyldflour.com/corn-dog-cookies/) from ages ago that intrigued me, and I had a pun, and so I set out prepping my tools:
 <p align="center"><img src="/assets/images/bubble_christmas_dragon/bubble1.jpeg" width="400"></p>
 
 and prepping the hot dogs:
