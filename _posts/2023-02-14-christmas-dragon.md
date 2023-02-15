@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We’ve Got Cookie Sign: The Bubble & The Christmas Dragon (S13E12 & S13E13"
+title: "We’ve Got Cookie Sign: The Bubble & The Christmas Dragon (S13E12 & S13E13)"
 ---
 
 Folks, it's been a _minute_, hasn't it?  Between the real holidays, [Mystery Hunt](/01/20/mystery-hunt-2023/), and everything else, I've had the last two cookies done for about a month.  You're getting the recipe for one of them. More on that later
