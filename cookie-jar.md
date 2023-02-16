@@ -26,4 +26,5 @@ This was a project to make a cookie/other dessert for each episode of MST3k Seas
 - *The Million Eyes of Su-Muru* (S13E9): [PBJ Streusel Bars](/2022/09/30/Sumuru)
 - *H.G. Wells' The Shape of Things to Come* (S13 E10): [Extra Black Black-Bottom Peanut Butter Pie](/2022/10/18/hgwells)
 - *The Mask 3-D* (S13 E11): [Mask Krispie Treats](/2022/10/28/mask3d)
-- *The Bubble* (S13 E12): coming soon
+- *The Bubble* (S13 E12): see _The Christmas Dragon_
+- *The Christmas Dragon* (S13 E13): [Dragon Snickerdoodles](/2023/02/14/christmas-dragon/)
