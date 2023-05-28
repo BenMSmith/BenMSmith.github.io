@@ -27,6 +27,7 @@ permalink: /travels/
 - 2021: Rotterdam
 - 2022: [Reykjavik](/2022/03/20/Iceland-2022/)
 - 2022: [Rotterdam](/2022/10/14/Rotterdam/)/[Amsterdam](/2022/10/15/Amsterdam/)/[Den Haag](/2022/10/16/Den-Haag/)
+- 2023: [Liverpool - Eurovision 2023](/2023/05/28/Liverpool-Eurovision-2023/)
 
 ## Other Trips
 - June 2022: [Denver/Red Rocks](/2022/06/01/red-rocks/)
