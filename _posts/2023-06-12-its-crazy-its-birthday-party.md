@@ -33,7 +33,7 @@ Y'all? I don't normally modify a recipe until after I make it according to the i
 Since I was taking the time to translate and iron out any kinks from the recipe, it only felt fair to put that online where other non-Finnish-speaking people could find it/hopefully get the same success. Consider it my birthday gift to you.
 
 ## Käärijätorttu (Käärijä Swiss Roll Cake)
-_From yhteishvä.fi, with modifications suggested by @pageshewey_
+_From [yhteishvä.fi](https://yhteishyva.fi/reseptit/kaarijatorttu/3wJzMm98UnGtKATCGnmH1S), with modifications suggested by @pageshewey_
 
 ## Ingredients
 
