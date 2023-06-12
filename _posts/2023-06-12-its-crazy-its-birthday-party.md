@@ -5,7 +5,7 @@ title: "It's Crazy It's (Birthday) Party: Making the Käärijätorttu"
 
 Y'all?  I haven't done a baking project that's felt like a _flex_ in a while. This was a F L E X.
 
-<p align="center"><img src="/assets/images/kaarijatorttu/kaarijatorttu.jpeg" width="500"><img src="/assets/images/kaarijatorttu/kaarijatorttu-slice.jpeg" width="500"></p>
+<p align="center"><img src="/assets/images/kaarijatorttu/kaarijatortu.jpeg" width="500"><img src="/assets/images/kaarijatorttu/kaarijatortu-slice.jpeg" width="500"></p>
 
 Finland's been going wild for their Eurovision entry since it got selected in February, and I've had my eye on this Käärijätorttu since it debuted on the Yhteishvä website in March. With a Birthday That Ends in a Five or a Zero happening this year, it felt like a big project was in order, and this was a chance to play with some new skills like Fondant Stuff.
 
