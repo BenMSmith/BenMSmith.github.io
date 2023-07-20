@@ -115,3 +115,5 @@ I took a LOT of selfies on this trip? I took a lot of selfies on this trip. Ther
 - celebrating part of 12 Points From America (Sam Ross') upcoming nuptials with a hen do before SF2 media day 
 
 {% include image-gallery.html folder="/assets/gallery/eurovision-2023/14_selfies-and-friends" %}
+
+and that's it!

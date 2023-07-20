@@ -24,7 +24,7 @@ Here's where to find me, when Twitter platform ceases to exist in a way where yo
 - Like many other elder millenials I have made a [Cohost](https://cohost.org/BenMSmith) but I don't know what I'm going to use that for yet.
 - Mastodon is definitely filling the void of Twitter for now. I'm @BenMSmith@mastodon.cloud. See you there!
 - A wild [Bluesky](https://bsky.app/profile/benmsmith.bsky.social) has appeared. No, I do not have invites yet.
-- Threads? We'll see.
+- Threads? LOL. LMAO.
 
 ## A newsletter?  In this economy?
 - If you're a substack kind of person, I have made [Semaphore](https://bsideboston.substack.com/) for occasional updates and also to ruin the other Ben Smith's SEO.
