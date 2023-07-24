@@ -19,7 +19,7 @@ I got into town a few days before I could go to the Press Center but also a day 
 
 <a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg" width="150"></a>
 
-![test image today](/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg)
+[test image today](/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg)
 
 {% include image-gallery.html folder="/assets/gallery/eurovision-2023/1_liverpool-sightseeing" %}
 
