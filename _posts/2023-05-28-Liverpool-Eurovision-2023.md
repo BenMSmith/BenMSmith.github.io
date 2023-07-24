@@ -21,7 +21,7 @@ I got into town a few days before I could go to the Press Center but also a day 
 
 [test image today](/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg)
 
-{% include image-gallery.html folder="/assets/gallery/eurovision-2023/1_liverpool-sightseeing" %}
+{% include image-gallery.html folder="assets/gallery/eurovision-2023/1_liverpool-sightseeing" %}
 
 ## Soloveiko Songborbs
 
