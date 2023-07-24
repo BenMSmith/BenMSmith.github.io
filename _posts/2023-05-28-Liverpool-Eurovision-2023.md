@@ -19,9 +19,77 @@ I got into town a few days before I could go to the Press Center but also a day 
 
 <a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg" width="150"></a>
 
-[test image today](/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg)
-
-{% include image-gallery.html folder="assets/gallery/eurovision-2023/1_liverpool-sightseeing" %}
+<table>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/01 - Queen Victoria Monument.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/02 - Clown Lambanana.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/02 - Clown Lambanana.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/03 - Liverpool Mountain.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/03 - Liverpool Mountain.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/04 - Floating Earth.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/04 - Floating Earth.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/05 - I am 5 years old.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/05 - I am 5 years old.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/06 - Liverpool Eurovision sign.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/06 - Liverpool Eurovision sign.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/07 - Royal Albert Dock from Liverpool Wheel.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/07 - Royal Albert Dock from Liverpool Wheel.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/08 - Liverpool Wheel.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/08 - Liverpool Wheel.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/09 - Liverpool Wheel.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/09 - Liverpool Wheel.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/10 - Disco Cauliflower.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/10 - Disco Cauliflower.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/11 - Beatles Tour.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/11 - Beatles Tour.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/12 - Liverpool Metropolitan Cathedral.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/12 - Liverpool Metropolitan Cathedral.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/13 - Beatles Tour.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/13 - Beatles Tour.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/14 - Penny Lane.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/14 - Penny Lane.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/15 - Beatles Tour.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/15 - Beatles Tour.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/16 - Beatles Tour.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/16 - Beatles Tour.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/17 - Beatles Tour.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/17 - Beatles Tour.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/18 - Penny Lane.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/18 - Penny Lane.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/19 - Strawberry Fields.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/19 - Strawberry Fields.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/20 - Beatles Tour.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/20 - Beatles Tour.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/21 - Street Art Liverpool.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/21 - Street Art Liverpool.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/22 - Coronation Sandwich.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/22 - Coronation Sandwich.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/23 - Street Art Liverpool.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/23 - Street Art Liverpool.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/24 - Street art Liverpool.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/24 - Street art Liverpool.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/25 - Proper Swanky.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/25 - Proper Swanky.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/26 - Royal Albert Docks.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/26 - Royal Albert Docks.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/27 - Cumulus, Tony Cragg.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/27 - Cumulus, Tony Cragg.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/28 - Untitled, Fahrelnissa Zeid.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/28 - Untitled, Fahrelnissa Zeid.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/29 - Untitled (Ghardaïa).jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/29 - Untitled (Ghardaïa).jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/30 - Rang Baranga.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/30 - Rang Baranga.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/31 - Jenny Holzer Installation.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/31 - Jenny Holzer Installation.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/32 - Camera Recording its Own Condition.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/32 - Camera Recording its Own Condition.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/33 - The Colour That Was There.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/33 - The Colour That Was There.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/34 - The Great Carnivore.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/34 - The Great Carnivore.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/35 - Untitled, David Shrigley.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/35 - Untitled, David Shrigley.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/36 - After Lunch.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/36 - After Lunch.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/37 - Burdened Children.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/37 - Burdened Children.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/38 - dog wall at Rough bakery.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/38 - dog wall at Rough bakery.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/39 - Cavern Club Alley.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/39 - Cavern Club Alley.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/40 - Unique and Authentic.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/40 - Unique and Authentic.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/41 - Cilla Black.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/41 - Cilla Black.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/42 - original Cavern Club entrance.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/42 - original Cavern Club entrance.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/43 - current Cavern Club entrance.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/43 - current Cavern Club entrance.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/44 - Ukraine Lambanana.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/44 - Ukraine Lambanana.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/45 - Beatles Statue.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/45 - Beatles Statue.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/46 - Liverpool City Museum.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/46 - Liverpool City Museum.jpeg" width="150"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/47 - Rough Handmade Bakery.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/47 - Rough Handmade Bakery.jpeg" width="150"></a></td>
+		<td><a href="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/48 - Eurovision Heart Gate.jpeg"><img src="/assets/gallery/eurovision-2023/1_liverpool-sightseeing/48 - Eurovision Heart Gate.jpeg" width="150"></a></td>
+		<td></td><td></td><td></td>
+	</tr>
+</table>
 
 ## Soloveiko Songborbs
 
