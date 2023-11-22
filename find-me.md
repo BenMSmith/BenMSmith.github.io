@@ -22,9 +22,9 @@ Here's where to find me, when Twitter platform ceases to exist in a way where yo
 - Facebook and I have a complicated relationship right now and I'm trying to use it less
 - I'm on instagram at [bsideboston](https://www.instagram.com/bsideboston/), say hi and don't be weird, it's mostly pictures of food and puzzles ATM.
 - Like many other elder millenials I have made a [Cohost](https://cohost.org/BenMSmith) but I don't know what I'm going to use that for yet.
-- Mastodon is definitely filling the void of Twitter for now. I'm @BenMSmith@mastodon.cloud. See you there!
-- A wild [Bluesky](https://bsky.app/profile/benmsmith.bsky.social) has appeared. No, I do not have invites yet.
+- You can follow me on Mastodon at @BenMSmith@mastodon.cloud, but Bluesky is really scratching my shitposting urges more so I'm not there a _ton_. You've been warned.
+- A wild [Bluesky](https://bsky.app/profile/benmsmith.bsky.social) has appeared. Ask nicely for an invite.
 - Threads? LOL. LMAO.
 
 ## A newsletter?  In this economy?
-- If you're a substack kind of person, I have made [Semaphore](https://bsideboston.substack.com/) for occasional updates and also to ruin the other Ben Smith's SEO.
+- If you're a substack kind of person, I have made [Semaphore](https://bsideboston.substack.com/) for occasional updates and also to ruin the other Ben Smith's SEO. I have yet to send an issue, so buyer beware.
