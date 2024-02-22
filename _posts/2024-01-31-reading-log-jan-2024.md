@@ -54,4 +54,5 @@ Hallett's become my go-to rec for friends looking for a new cozy, because she's 
 Bluesky decided to read this, and though it got tricky in the middle with Mystery Hunt happening, I made it through! This book is so much more funny and interesting than I realized and it was a lot of fun to read together in the community of the internet.
 
 total books: 11
+
 total pages: 3567
