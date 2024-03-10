@@ -14,7 +14,7 @@ One of my friends co-authored this one! Not as dishy as I was hoping about the r
 "You just can't take a joke anymore" b/w "Kids are too sensitive these days" is a record endlessly on repeat. 
 
 **The Book of Love**, Kelly Link
-ARC, [full review here]()
+ARC, [full review here](https://www.goodreads.com/review/show/5869046752)
 
 **Filterworld: How Algorithms Flattened Culture**, Kyle Chayka
 
@@ -45,11 +45,11 @@ A few chapters of this got repetitive (it feels like the author wrote each movie
 More academic than I tend to stick with. Some really interesting ideas on how digital fakery has been part of the internet for longer than we think it has, with lots of great case studies, but completely whiffs the ending by looking to the metaverse/NFTs as a potential vision for the future.
 
 **The Other Valley**, Scott Alexander Howard
-ARC, [full review here]()
+ARC, [full review here](https://www.goodreads.com/review/show/6222032482)
 
 
 **American Woman: The Transformation of the Modern First Lady, from Hillary Clinton to Jill Biden**, Katie Rogers
-ARC, [full review here]()
+ARC, [full review here](https://www.goodreads.com/review/show/5783024514)
 
 -----
 
