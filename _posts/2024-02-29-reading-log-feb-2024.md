@@ -22,7 +22,7 @@ Loved Kyle's last book, love his writing on the internet for _The New Yorker_, a
 
 **Palo Alto: A History of California, Capitalism, and the World**, Malcolm Harris
 
-I've been knawing at this one for slightly over a year, and flying home from [Finland]() gave me the focused space to finish the final chapters. Deeply researched, deeply enthralling (if heavy at times), and following on from Harris' great prior work in [_Kids These Days_]().
+I've been knawing at this one for slightly over a year, and flying home from [Finland]() gave me the focused space to finish the final chapters. Deeply researched, deeply enthralling (if heavy at times), and following on from Harris' great prior work in _Kids These Days_.
 
 **The Christmas Appeal**, Janice Hallett
 
@@ -54,7 +54,9 @@ ARC, [full review here](https://www.goodreads.com/review/show/5783024514)
 -----
 
 total books, February: 13
+
 total pages, February: 5093
 
 total books, 2024: 24
+
 total pages, 2024: 8660
