@@ -54,12 +54,18 @@ ARC, [full review here](https://www.goodreads.com/review/show/6222032482)
 
 ARC, [full review here](https://www.goodreads.com/review/show/5783024514)
 
+**West Heart Kill**, Dann McDorman
+
+there's an effort to be "meta" here - you're reading a mystery novel AND you're aware that you're reading a mystery novel - but proceeds to do nothing with that. 
+
+While the RIYLs for this (like [Evelyn Hardcastle](https://www.goodreads.com/book/show/36337550-the-7-1-2-deaths-of-evelyn-hardcastle), etc.) do something with that meta-ness plotwise, this is content to just leave you at arm's length, aware that you can see the scaffolding of this mystery novel set in the 70s but never quite sure _why_ you're being allowed to see it or what that adds. As it turns out: not much!
+
 -----
 
-total books, February: 13
+total books, February: 14
 
 total pages, February: 5093
 
-total books, 2024: 24
+total books, 2024: 25
 
 total pages, 2024: 8660
