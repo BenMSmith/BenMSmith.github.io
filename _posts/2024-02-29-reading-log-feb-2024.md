@@ -49,7 +49,6 @@ More academic than I tend to stick with. Some really interesting ideas on how di
 
 ARC, [full review here](https://www.goodreads.com/review/show/6222032482)
 
-
 **American Woman: The Transformation of the Modern First Lady, from Hillary Clinton to Jill Biden**, Katie Rogers
 
 ARC, [full review here](https://www.goodreads.com/review/show/5783024514)
